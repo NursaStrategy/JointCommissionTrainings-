@@ -1,0 +1,1232 @@
+
+
+
+
+
+
+
+
+
+					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+						div.heateor_sss_horizontal_sharing a.heateor_sss_button_instagram span{background:#FF0000!important;}div.heateor_sss_standard_follow_icons_container a.heateor_sss_button_instagram span{background:#FF0000;}
+							div.heateor_sss_horizontal_sharing a.heateor_sss_button_instagram span:hover{background:#005a8c!important;}div.heateor_sss_standard_follow_icons_container a.heateor_sss_button_instagram span:hover{background:#005a8c;}
+							div.heateor_sss_vertical_sharing  a.heateor_sss_button_instagram span{background:#FF0000!important;}div.heateor_sss_floating_follow_icons_container a.heateor_sss_button_instagram span{background:#FF0000;}
+							div.heateor_sss_vertical_sharing a.heateor_sss_button_instagram span:hover{background:#005a8c!important;}div.heateor_sss_floating_follow_icons_container a.heateor_sss_button_instagram span:hover{background:#005a8c;}
+				.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
+							background-color: #FF0000!important;
+				background: #FF0000!important;
+							color: #fff;
+						border-width: 2pxpx;
+			border-style: solid;
+			border-color: #fffffff;
+		}
+					.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+				color:#666;
+			}
+					.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{
+							background-color: #005a8c!important;
+				background: #005a8c!important;
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{
+							background-color: #FF0000!important;
+				background: #FF0000!important;
+							color: #fff;
+						border-width: 2pxpx;
+			border-style: solid;
+			border-color: #ffffff;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+						.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{
+							background-color: #005a8c!important;
+				background: #005a8c!important;
+						border-color: transparent;
+		}
+				
+
+
+
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+
+
+
+AHA Patient's Bill of Rights - APRA %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.americanpatient.org/aha-patients-bill-of-rights/#article","isPartOf":{"@id":"https://www.americanpatient.org/aha-patients-bill-of-rights/"},"author":{"name":"Peter Hunt","@id":"https://www.americanpatient.org/#/schema/person/90beee2c4392a359191268d04f4aaa6a"},"headline":"AHA Patient&#8217;s Bill of Rights","datePublished":"2018-11-13T13:21:04+00:00","dateModified":"2023-02-07T17:04:03+00:00","mainEntityOfPage":{"@id":"https://www.americanpatient.org/aha-patients-bill-of-rights/"},"wordCount":1421,"commentCount":6,"publisher":{"@id":"https://www.americanpatient.org/#organization"},"image":{"@id":"https://www.americanpatient.org/aha-patients-bill-of-rights/#primaryimage"},"thumbnailUrl":"https://www.americanpatient.org/wp-content/uploads/2018/11/document-428331_1280.jpg","articleSection":["Patient Rights","Public"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.americanpatient.org/aha-patients-bill-of-rights/#respond"]}]},{"@type":"WebPage","@id":"https://www.americanpatient.org/aha-patients-bill-of-rights/","url":"https://www.americanpatient.org/aha-patients-bill-of-rights/","name":"AHA Patient's Bill of Rights - APRA %","isPartOf":{"@id":"https://www.americanpatient.org/#website"},"primaryImageOfPage":{"@id":"https://www.americanpatient.org/aha-patients-bill-of-rights/#primaryimage"},"image":{"@id":"https://www.americanpatient.org/aha-patients-bill-of-rights/#primaryimage"},"thumbnailUrl":"https://www.americanpatient.org/wp-content/uploads/2018/11/document-428331_1280.jpg","datePublished":"2018-11-13T13:21:04+00:00","dateModified":"2023-02-07T17:04:03+00:00","breadcrumb":{"@id":"https://www.americanpatient.org/aha-patients-bill-of-rights/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.americanpatient.org/aha-patients-bill-of-rights/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.americanpatient.org/aha-patients-bill-of-rights/#primaryimage","url":"https://www.americanpatient.org/wp-content/uploads/2018/11/document-428331_1280.jpg","contentUrl":"https://www.americanpatient.org/wp-content/uploads/2018/11/document-428331_1280.jpg","width":1280,"height":851},{"@type":"BreadcrumbList","@id":"https://www.americanpatient.org/aha-patients-bill-of-rights/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.americanpatient.org/"},{"@type":"ListItem","position":2,"name":"AHA Patient&#8217;s Bill of Rights"}]},{"@type":"WebSite","@id":"https://www.americanpatient.org/#website","url":"https://www.americanpatient.org/","name":"APRA","description":"American Patient Rights Association","publisher":{"@id":"https://www.americanpatient.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.americanpatient.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.americanpatient.org/#organization","name":"American Patient Rights Association","url":"https://www.americanpatient.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.americanpatient.org/#/schema/logo/image/","url":"https://www.americanpatient.org/wp-content/uploads/2020/06/APRA-Logo.png","contentUrl":"https://www.americanpatient.org/wp-content/uploads/2020/06/APRA-Logo.png","width":470,"height":125,"caption":"American Patient Rights Association"},"image":{"@id":"https://www.americanpatient.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/AmericanPatient/","https://twitter.com/AmericanPatient","https://www.linkedin.com/company/american-patient-rights-association/"]},{"@type":"Person","@id":"https://www.americanpatient.org/#/schema/person/90beee2c4392a359191268d04f4aaa6a","name":"Peter Hunt","url":"https://www.americanpatient.org/author/rliss/"}]}
+
+
+
+
+
+
+
+
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.americanpatient.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var usp_custom_field = "usp_custom_field"; var usp_custom_field_2 = ""; var usp_custom_checkbox = "usp_custom_checkbox"; var usp_case_sensitivity = "false"; var usp_challenge_response = "16"; var usp_min_images = 1; var usp_max_images = 1; var usp_parsley_error = "Incorrect response."; var usp_multiple_cats = 0; var usp_existing_tags = 0; var usp_recaptcha_disp = "show"; var usp_recaptcha_vers = "2"; var usp_recaptcha_key = "6LfupFMUAAAAAKabT3X_n7F3k2-nuuyrCcAQgmdX"; 
+
+
+
+
+
+
+
+
+
+
+#mysticky-nav { width:100%; position: static; }#mysticky-nav.wrapfixed { position:fixed; left: 0px; margin-top:0px;  z-index: 99990; -webkit-transition: 0.3s; -moz-transition: 0.3s; -o-transition: 0.3s; transition: 0.3s; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)"; filter: alpha(opacity=90); opacity:0.9; background-color: #f7f5e7;}#mysticky-nav.wrapfixed .myfixed{ background-color: #f7f5e7; position: relative;top: auto;left: auto;right: auto;}#mysticky-nav .myfixed { margin:0 auto; float:none; border:0px; background:none; max-width:100%; } 
+
+
+			var _statcounter = _statcounter || [];
+			_statcounter.push({"tags": {"author": "rliss"}});
+		
+
+			#related_posts_thumbnails li{
+				border-right: 1px solid #dddddd;
+				background-color: #ffffff			}
+			#related_posts_thumbnails li:hover{
+				background-color: #ffffff;
+			}
+			.relpost_content{
+				font-size:	14px;
+				color: 		#333333;
+			}
+			.relpost-block-single{
+				background-color: #ffffff;
+				border-right: 1px solid  #dddddd;
+				border-left: 1px solid  #dddddd;
+				margin-right: -1px;
+			}
+			.relpost-block-single:hover{
+				background-color: #ffffff;
+			}
+		
+
+
+
+	var dataLayer_content = {"visitorLoginState":"logged-out","visitorEmail":"","visitorEmailHash":"","visitorUsername":"","pageTitle":"AHA Patient&#039;s Bill of Rights - APRA %","pagePostType":"post","pagePostType2":"single-post","pageCategory":["patient-rights","public"],"pagePostAuthor":"Peter Hunt"};
+	dataLayer.push( dataLayer_content );
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W6FHZ26');
+
+
+ 
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		
+
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					
+
+
+body.custom-background { background-color: #ffffff; }
+
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css"/>
+#mc_embed_signup{background:none; clear:left; font:12px Oswald, Helvetica, Arial, sans-serif; width:100%;}
+	#mc_embed_signup input.email {
+    font-family: Oswald, Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    border: 1px solid #ABB0B2;
+    color: #343434;
+    background-color: #fff;
+    box-sizing: border-box;
+    height: 32px;
+    display: inline-block;
+    width: 175px;
+    float: left;
+    vertical-align: top;
+}
+#mc_embed_signup label {
+    display: block;
+    font-size: 12px;
+    padding-bottom: 10px;
+    font-weight: 400;
+  text-align: center;
+}
+.clear {
+    clear: none;
+}
+	#mc_embed_signup label {
+    display: block;
+    font-size: 12px;
+    padding: 10px 0;
+    font-weight: normal;
+    background:#005a8c;
+    border-bottom:1px solid #333;
+}
+
+#mc_embed_signup .button:hover{
+ background:#000; 
+}
+	#mc_embed_signup .button {
+    font-size: 12px;
+    border: none;    
+    border-radius: 0;
+    letter-spacing: .03em;
+    color: #fff;
+    background-color: #dd3333;
+    box-sizing: border-box;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 18px;
+    display: inline-block;
+    margin: 0;
+    transition: all 0.23s ease-in-out 0s;
+}
+
+
+
+
+			.pmpro_btn-submit-checkout{
+	height:auto !important;
+	padding:0px;
+}
+.home .entry-meta {
+    display: none;
+}
+/* social follow footer*/
+ul.heateor_sss_follow_ul {
+    margin: 0!important;
+    padding-left: 30% !important;
+}
+
+
+/* member story posting form design*/
+
+div#user-submitted-posts fieldset input.usp-input {
+    box-sizing: border-box;
+    display: block;
+    float: none;
+    clear: both;
+    width: 100%;
+    margin: 0;
+	  border: 1px solid #000;
+    font-size: 0.875rem;
+}
+
+div#user-submitted-posts textarea.usp-textarea {
+    box-sizing: border-box;
+    display: block;
+    float: none;
+    clear: both;
+    width: 100%;
+    margin: 0;
+	  font-size: 0.875rem;
+}
+
+div#user-submitted-posts form {
+    box-sizing: border-box;
+    margin: 10px 0;
+    padding: 5px;
+    background: #ffffff;
+    border: 10px solid #d2d2d2;
+    padding: 30px;
+}
+
+
+div#user-submitted-posts fieldset label {
+    box-sizing: border-box;
+    display: block;
+    float: none;
+    clear: both;
+    width: 80%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+input#user-submitted-post {
+    /* width: 100%; */
+    color: #ffffff;
+    width: 100%;
+    font-weight: bold;
+    margin-top: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+
+
+/*make the entire widget style same color*/
+.widget-title {
+	background: #005a8c;
+}
+
+
+
+
+
+/*menu items normal font*/
+ul.menu {
+    font-weight: normal;
+}
+/* to align paypal button*/
+form.pmpro_form .pmpro_submit{
+	text-align: center;
+	
+}
+/* to align texts*/
+.cp-title-small {
+       margin-left: 138px;
+   }
+	
+/* front page remove underlines from post snippets*/
+.my-news hr.mh-separator {
+   /* visibility: hidden;*/
+}
+.mh-cp-widget .mh-separator:last-child {
+   display: none;
+}
+
+/*tagcloud design*/
+.tagcloud a { 
+font-family: 'Oswald', Helvetica, Arial, sans-serif;
+opacity: 0.80;  
+font-weight: normal;
+display: inline-block; 
+margin: 2px 3px 3px 2px ; 
+padding: 0 2px; 
+line-height: 2px; 
+} 
+
+.tagcloud a:nth-child(9n){color: #428bca;} 
+.tagcloud a:nth-child(9n+1){color: #ff0000;} 
+.tagcloud a:nth-child(9n+2){color: #000;} 
+.tagcloud a:nth-child(9n+3){color: #586680;} 
+.tagcloud a:nth-child(9n+4){color: #0A555C;} 
+.tagcloud a:nth-child(9n+5){color: #FF530D;} 
+.tagcloud a:nth-child(9n+6){color: #004C97;} 
+.tagcloud a:nth-child(9n+7){
+	color: #1C2036;}
+.tagcloud a:nth-child(9n+8){color: #3E606F;} 
+
+
+.relpost-thumb-wrapper{
+	padding-top: 30px;
+	border-top: 1px solid #000;
+}
+.page-full-width {
+    margin-top: -20px;
+}
+#footer-sidebar4 aside{
+	margin-bottom: 0;
+	padding-bottom: 0px;
+}
+
+p#footer-sidebar4{
+	line-height:0;
+}
+.wrapper-inner{
+	width: 100%;
+}
+#cust-entry-head{
+	margin-top: -20px;
+}
+.header-wrap{
+	margin-top: -10px;
+}
+table td{
+	font-size:15px !important;
+}
+.pmpro_btn, .pmpro_btn:link, .pmpro_content_message a, .pmpro_content_message a:link {
+    background-color: red;
+	  font-size:15px;
+	  color:#fff;
+}
+
+table th {
+	text-align: center;
+}
+
+a:hover, a:focus {
+   text-decoration: none !important;
+}
+
+a.pmpro_btn.pmpro_btn-select {
+    color: #fff;
+}
+
+.pmpro_btn.disabled, .pmpro_btn[disabled], fieldset[disabled] .pmpro_btn {
+    color: #fff;
+}
+
+/* cancel button */
+.pmpro_btn, .pmpro_btn:link, .pmpro_content_message a, .pmpro_content_message a:link{
+	color: #fff !important;
+	padding: 10px !important;
+}
+
+
+/*login screen text size*/
+body.login #nav a, body.login #backtoblog a {
+     font-size: 18px !important;
+    /* background: oldlace; */
+}
+/*remove meta extra links*/
+.widget_meta > ul > li:nth-last-child(1) {
+     display: none; 
+}
+
+.widget_meta > ul > li:nth-last-child(3) {
+     display: none; 
+}
+
+.widget_meta > ul > li:nth-last-child(4) {
+    padding-top: 20px;
+	  }
+.widget_meta > ul > li:nth-last-child(5) {
+     display: none; 
+}
+
+
+
+
+.widget_meta ul{
+	font-size: 14px;
+	/*padding-left: 20px;*/
+
+	margin: 20px auto;
+	list-style: none;
+	}
+.widget_meta a{
+	background: #ff0000;
+font-family: 'Oswald', Helvetica, Arial, sans-serif;
+	padding: 8px 80px;
+	font-weight: normal;
+	font-size: 18px;
+	color: #fff;
+	text-decoration: none !important;
+
+}
+.widget_meta a:hover{
+	background: #428bca;
+}
+
+.widget_meta > ul > li:nth-last-child(2) {
+     display: none; 
+}
+
+/*You may like */
+
+
+ul#lcp_instance_listcategorypostswidget-2 li, ul#lcp_instance_listcategorypostswidget-3 li{
+   padding: 10px 0;
+	color: #333;
+    text-transform: uppercase;
+   border-bottom: 1px solid #d6d6d6 !important;
+	font-weight:normal;
+	font-size: 12px;
+}
+
+ul#lcp_instance_listcategorypostswidget-2 li>a,ul#lcp_instance_listcategorypostswidget-3 li>a  {
+	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+	font-size: 15px !important;
+    padding-right: 10px;
+    text-transform: none !important;
+	
+}
+/*ul#lcp_instance_listcategorypostswidget-2 li>a:after {
+   content:" -"
+	 
+}*/
+
+/*posts lists excerpts style*/
+.content-list-excerpt {
+       font-weight: normal;
+}
+
+/* footer font-weight*/
+.mh-footer a, .mh-footer {
+    color: #fff;
+    font-weight: normal;
+}
+.custom-login-form-wrap{
+    width:800px;
+    height:800px;
+    margin:80px auto;
+    border:4px solid rgb(50,50,50);
+	
+}
+
+/* footer register btn hover color*/
+.so-widget-sow-button-flat-a8fc21b32fa0 .ow-button-base a.ow-button-hover:hover {
+    background: #005a8c !important;
+    border-bottom-color: #005a8c !important;
+	border-top-color: #005a8c !important;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/* primary button hover color*/
+.btn-primary:hover, .open .dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color:  #005a8c !important;
+    border-color: #005a8c !important;;
+}
+/*pmpro button hover color*/
+.pmpro_btn:hover, .pmpro_content_message a:hover {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #fff !important;
+    text-decoration: none;
+	background-color:  #005a8c !important;
+}
+/***** Navigation *****/
+
+.main-nav { background: #1f1e1e; text-transform: uppercase; }
+.main-nav li { float: left; position: relative; border-left: 1px solid #424242; }
+.main-nav li:first-child {/* border: none; */}
+.main-nav li:hover { background: #005a8c; }
+
+.main-nav li a {display: block;color: #fff; font-size:14px;/* padding: 10px 15px; *//* padding: 0.625rem 0.9375rem; */text-decoration: none;}
+
+.main-nav ul li:hover > ul { display: block; background: #2a2a2a; z-index: 9998; }
+
+.main-nav ul ul { display: none; position: absolute; font-size: 11px; }
+
+/*.main-nav ul ul li { width: 13em; border: none; }*/
+.main-nav ul ul ul { left: 100%; top: 0; }
+
+.sub-menu li a {
+    font-size: 12px;
+    
+	}
+
+.main-nav ul ul li {
+    width: 300px;
+	  border-top: 1px dotted #d6d6d6;
+}
+
+
+.main-menu li:first-child a{
+	border-top: none;
+}
+.register-apra {
+ 	text-decoration: none !important;
+	 background-color: #005a8c!important;
+	color: #fff;
+	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+    font-size: 12px !important;
+	text-transform: uppercase;
+	font-weight:normal;
+	}
+.register-apra:hover{
+	background-color: #000!important;
+}
+/* subscribe form paragraph spacing*/
+/*div#mc_embed_signup_scroll {
+    margin-top: -35px;
+	 
+}*/
+#mc_embed_signup_scroll p{
+	margin-top: -10px;
+	padding: 0;
+}
+#mc_embed_signup input.email{
+		width: 60%;
+			}
+#mc_embed_signup .button{
+		width: 40%;	
+	}
+
+/*checkout page */
+table#pmpro_mailing_lists td {
+	text-align: left;
+}
+
+table#pmpro_mailing_lists th{
+	text-align: left;
+	font-size: 23px !important;
+	font-family: 'Oswald', Helvetica, Arial, sans-serif !important;
+}
+form.pmpro_form .input, form.pmpro_form textarea, form.pmpro_form select{
+	font-size: 14px;
+}
+form.pmpro_form small{
+	font-size: 10px;
+}
+form.pmpro_form input[type=checkbox]#tos{
+	margin-left: 12px;
+}
+form.pmpro_form .input{
+	width: 100%;
+	max-width: 98%;
+}
+
+label.pmpro_normal.pmpro_clickable{
+font-family: 'Oswald', Helvetica, Arial, sans-serif !important;
+	font-size: 18px;
+	font-weight: 400;
+}
+.pmpro_checkout h3 span.pmpro_checkout-h3-name {
+	display: inline-block;
+	margin: 0 .5rem 1rem 0;
+	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+	
+}
+
+span.pmpro_checkout-h3-msg>a {
+    color: #d9edf7;
+    font-weight: 100;
+}
+
+form.pmpro_form label.pmpro_label-inline {
+   font-family: 'Oswald', Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	margin-top: 10px;
+	}
+.pmpro_checkout h3 span.pmpro_checkout-h3-msg {
+	font-size: 14px;
+	font-style: italic;
+	font-weight: normal;
+	}
+
+form.pmpro_form input[type=checkbox]#tos {
+    width: 18px !important;
+    height: 18px;
+}
+
+form.pmpro_form label{
+	display: inline-block;
+}
+
+.content-lead-excerpt .button {
+    display: none;
+}
+
+#pgc-2433-1-1> .panel-cell-style {
+   padding: 0px 0px 0px 0px;
+}
+
+#pmpro_form .pmpro_checkout h3 {
+    margin-bottom: 10px;
+    padding: 10px 10px 0px;
+    background: #005a8c;
+	color: #fff;
+}
+
+form.customize-unpreviewable input{
+	vertical-align: bottom !important;
+}
+
+/*log out button in membership page*/
+a.mem-logout-btn {
+    font-weight: normal;
+}
+a.mem-logout-btn:hover {
+   text-decoration: none;
+}
+
+
+@media only screen and (max-width: 840px) {
+	
+table {width:100%;}
+    thead {display: none;}
+    tr:nth-of-type(2n) {background-color: inherit;}
+    tr td:first-child {border-top:1px solid #000; font-weight:bold;font-size:1.3em;}
+    tbody td {display: block;  text-align:center;}
+    tbody td:before { 
+        content: attr(data-th); 
+        display: block;
+        text-align:center;  
+    }
+	
+	table#pmpro_mailing_lists thead{
+		display:block;
+		background: #005a8c;
+	}
+	
+	form.pmpro_form .pmpro_checkout-fields div {
+    margin: 0;
+}
+	
+	.cp-title-small {
+    margin: 0 auto;
+		float: none;
+    display: block;
+}
+	
+	
+
+}
+
+/****** ets mobile views css start here ***/
+.only_for_mobile{
+		display:block;
+		font-size:26px;
+		font-family:'Oswald';
+		text-align:center;
+		margin-bottom:-25px;
+	}
+
+
+
+/***** mobile app css start here *****/
+
+@media (max-width:992px){
+	#pmpro_levels_table thead{
+		display:table-header-group;
+	}
+	#mh-wrapper.container-fluid{
+	margin-left:0px;
+	margin-right:0px;
+} 
+}
+@media (max-width:768px){
+	#mh-wrapper.container-fluid{
+		width:100%;
+		max-width:100%;
+	}
+	.siteorigin-widget-tinymce.textwidget{
+		display:inline-block;
+		width:100%;
+		overflow-y:auto;
+	}
+	
+	.pmpro-body-has-access .mh-header .register-btn{
+		display:none;
+	}
+	.ets-loggedin .mh-header .register-btn{
+	display:block;
+	}
+	#pg-2433-1 > .panel-row-style{
+		padding-left:0px;
+		padding-right:0px;
+	}
+	.pmpro_actions_nav{
+	display:none;
+	}
+/* 	#pmpro_levels_table.pmpro_checkout{
+		margin:0px auto !important;
+	} */
+}
+
+
+#mc_embed_signup .button {
+		background-color: red!important;
+	text-transform: uppercase!important;
+	margin: 5px 5px 0px 0!important;
+}
+.pmpro_login_wrap > h3
+{
+	color:white !important;
+}
+
+#pmpro_billing_address_fields .pmpro_checkout-h3-name {
+  visibility: hidden;
+	position: relative;
+}
+#pmpro_billing_address_fields .pmpro_checkout-h3-name:after {
+	visibility: visible;
+    position: absolute;
+	top: 0;
+    left: 0;
+  content: 'Address';
+}
+
+.lean-overlay {
+	display:none!important;
+}		
+   window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-574824860'); 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+Register/Login
+
+
+
+Home
+About APRA
+
+Who We Are
+What We Do
+FAQ
+Our Programs
+Governance
+Statement of Independence
+Founders Statement
+APRA News
+Media
+Press Releases
+Privacy Policy
+Terms and Conditions
+
+
+Patient Alerts
+
+All Patients
+Hospital News
+Hospital Patients
+Insurance
+Laws and Regulations
+Medical Cost Alerts
+Medical Devices
+Medical Treatments
+Medications
+Nursing Homes and Skilled Nursing Facilities
+Seniors
+Tests and Imaging
+
+
+Patient Tools
+
+Medical Bills Toolkit
+Patient Safety Toolkit
+FDA Drug and Device Recalls
+Health Insurance Toolkit
+Hospital and Surgeon Ratings and Rankings
+Legal and Medical Forms
+Medical Costs Toolkit
+Patient Privacy Toolkit
+Senior Safety Toolkit
+
+
+Learning Center
+
+Health insurance
+
+Private Insurance
+ACA/Obamacare
+Medicare
+
+
+Medical Costs
+Medical Bills
+Medical System
+Patient Privacy
+Patient Resources
+Patient Rights
+Patient Safety
+
+
+Stories
+
+Member Stories
+Other Medical Stories
+Share Your Story
+
+
+Testimonials
+Contact Us
+
+Contact Us
+Leave Feedback
+
+
+Donate
+ 
+
+
+
+
+AHA Patient’s Bill of Rights
+
+
+
+
+
+
+The AHA Patient’s Bill of Rights is only a guideline for hospitals. Americans have few legal patient rights. 
+From the American Hospital Association:
+ A Patient’s Bill of Rights was first adopted by the American Hospital Association in 1973.
+This revision was approved by the AHA Board of Trustees on October 21, 1992.
+Introduction
+Effective health care requires collaboration between patients and physicians and other health care professionals. Open and honest communication, respect for personal and professional values, and sensitivity to differences are integral to optimal patient care. As the setting for the provision of health services, hospitals must provide a foundation for understanding and respecting the rights and responsibilities of patients, their families, physicians, and other caregivers. Hospitals must ensure a health care ethic that respects the role of patients in decision-making about treatment choices and other aspects of their care. Hospitals must be sensitive to cultural, racial, linguistic, religious, age, gender, and other differences as well as the needs of persons with disabilities.
+> Join APRA Today For FREE to Support Our Fight for Patient Rights. 
+The American Hospital Association presents A Patient’s Bill of Rights with the expectation that it will contribute to more effective patient care and be supported by the hospital on behalf of the institution, its medical staff, employees, and patients. The American Hospital Association encourages health care institutions to tailor this bill of rights to their patient community by translating and/or simplifying the language of this bill of rights as may be necessary to ensure that patients and their families understand their rights and responsibilities.
+AHA Patient’s Bill of Rights
+These rights can be exercised on the patient’s behalf by a designated surrogate or proxy decision-maker if the patient lacks decision-making capacity, is legally incompetent, or is a minor.
+
+The patient has the right to considerate and respectful care.
+The patient has the right to and is encouraged to obtain from physicians and other direct caregivers relevant, current, and understandable information concerning diagnosis, treatment, and prognosis.
+Except in emergencies when the patient lacks decision-making capacity and the need for treatment is urgent, the patient is entitled to the opportunity to discuss and request information related to the specific procedures and/or treatments, the risks involved, the possible length of recuperation, and the medically reasonable alternatives and their accompanying risks and benefits.
+Patients have the right to know the identity of physicians, nurses, and others involved in their care, as well as when those involved are students, residents, or other trainees.
+The patient also has the right to know the immediate and long-term financial implications of treatment choices, insofar as they are known.
+The patient has the right to make decisions about the plan of care prior to and during the course of treatment and to refuse a recommended treatment or plan of care to the extent permitted by law and hospital policy and to be informed of the medical consequences of this action. In case of such refusal, the patient is entitled to other appropriate care and services that the hospital provides or transfer to another hospital. The hospital should notify patients of any policy that might affect patient choices within the institution.
+The patient has the right to have an advance directive (such as a living will, health care proxy, or durable power of attorney for health care) concerning treatment or designating a surrogate decision-maker with the expectation that the hospital will honor the intent of that directive to the extent permitted by law and hospital policy. Health care institutions must advise patients of their rights under state law and hospital policy to make informed medical choices, ask if the patient has an advance directive, and include that information in patient records. The patient has the right to timely information about hospital policy that may limit its ability to implement fully a legally valid advance directive.
+The patient has the right to every consideration of privacy. Case discussion, consultation, examination, and treatment should be conducted so as to protect each patient’s privacy.
+The patient has the right to expect that all communications and records pertaining to his/her care will be treated as confidential by the hospital, except in cases such as suspected abuse and public health hazards when reporting is permitted or required by law. The patient has the right to expect that the hospital will emphasize the confidentiality of this information when it releases it to any other parties entitled to review information in these records.
+The patient has the right to review the records pertaining to his/her medical care and to have the information explained or interpreted as necessary, except when restricted by law.
+The patient has the right to expect that, within its capacity and policies, a hospital will make reasonable response to the request of a patient for appropriate and medically indicated care and services. The hospital must provide evaluation, service, and/or referral as indicated by the urgency of the case. When medically appropriate and legally permissible, or when a patient has so requested, a patient may be transferred to another facility. The institution to which the patient is to be transferred must first have accepted the patient for transfer. The patient must also have the benefit of complete information and explanation concerning the need for, risks, benefits, and alternatives to such a transfer.
+The patient has the right to ask and be informed of the existence of business relationships among the hospital, educational institutions, other health care providers, or payers that may influence the patient’s treatment and care.
+The patient has the right to consent to or decline to participate in proposed research studies or human experimentation affecting care and treatment or requiring direct patient involvement and to have those studies fully explained prior to consent. A patient who declines to participate in research or experimentation is entitled to the most effective care that the hospital can otherwise provide.
+The patient has the right to expect reasonable continuity of care when appropriate and to be informed by physicians and other caregivers of available and realistic patient care options when hospital care is no longer appropriate.
+The patient has the right to be informed of hospital policies and practices that relate to patient care, treatment, and responsibilities. The patient has the right to be informed of available resources for resolving disputes, grievances, and conflicts, such as ethics committees, patient representatives, or other mechanisms available in the institution. The patient has the right to be informed of the hospital’s charges for services and available payment methods.                      
+
+> Join APRA Today For FREE to Support Our Fight for Patient Rights. 
+The collaborative nature of health care requires that patients, or their families/surrogates, participate in their care. The effectiveness of care and patient satisfaction with the course of treatment depends, in part, on the patient fulfilling certain responsibilities. Patients are responsible for providing information about past illnesses, hospitalizations, medications, and other matters related to health status. To participate effectively in decision-making, patients must be encouraged to take responsibility for requesting additional information or clarification about their health status or treatment when they do not fully understand information and instructions. Patients are also responsible for ensuring that the health care institution has a copy of their written advance directive if they have one. Patients are responsible for informing their physicians and other caregivers if they anticipate problems in following prescribed treatment.
+Patients should also be aware of the hospital’s obligation to be reasonably efficient and equitable in providing care to other patients and the community. The hospital’s rules and regulations are designed to help the hospital meet this obligation. Patients and their families are responsible for making reasonable accommodations to the needs of the hospital, other patients, medical staff, and hospital employees. Patients are responsible for providing necessary information for insurance claims and for working with the hospital to make payment arrangements, when necessary.
+> Learn more about patient rights
+> Join APRA Today For FREE to Support Our Fight for Patient Rights. 
+Free to Read. Not Free to Produce.
+The American Patient Rights Association is a nonprofit organization and 90% of our revenue comes from people like you. If you value the information we provide for free and our mission to save patients’ lives and money, please help us dig out of the $100,000 hole for our new budget cycle with an always-needed and always-appreciated donation today. You’ll enjoy reading, even more, knowing you helped make it happen.
+YES, I’LL DONATE TODAY
+Related posts:Biggest Medicare Fraud Scheme in HistoryNearly half of low-income communities have no ICU beds in their areaThe Voices Of Patient Harm[pmpro_levels]
+
+
+
+
+Previous post
+
+Next post
+
+
+
+6 Comments on "AHA Patient’s Bill of Rights"
+
+
+
+
+										Tammy Howard |
+					December 2, 2021 at 11:02 am |
+										Log in to Reply 
+
+Barbara do you have the source for Brad Dacus on the PCR test carcinogen? I have read Ethelene Oxide is used to sterilize the swabs. Testing is against medical rights if the test is EUA correct? Thanks
+
+
+
+
+
+										Nina Martinez |
+					August 10, 2021 at 11:24 am |
+										Log in to Reply 
+
+Such craziness violating and trammeling on our rights in the efforts to take the jab!  I just received an email from Sutter that anyone going in to see a doctor will have to be jabbed with the COVID19 so called vaccine.  To me that’s a violation of the Patient’s bill of rights.  Am I correct?
+
+
+
+
+
+										Wanda Cassidy |
+					July 7, 2021 at 2:48 pm |
+										Log in to Reply 
+
+I am a disabled Army Veteran. I am also a seven time cancer survivor. In 2018 I lost my voice box to cancer. I have what is called a stoma (a hole in my neck which I breathe through) I wear an HME with very thick sponge inside so I have to breathe harder in order to keep my lungs good and healthy. If my shirt accidentally covers my stoma I know it immediately because I can’t breathe. I do not breathe through my nose or mouth at all. I told you all that background information to say the VA Clinic/Hospital not only wants me to wear one mask but in fact two mask. I’m refused treatment with my Dr unless I agree. I do not agree so this affectively cuts off my ability to see a VA Dr which I’m entitled to. I wonder how many other Veterans are being denied treatment this way.
+
+
+
+
+
+										Catherine Heiston |
+					May 30, 2021 at 7:30 pm |
+										Log in to Reply 
+
+Do these Rights apply to “us” as employees??  I Do NOT Consent to taking the “shot”  nor Do I want to take the “test”  I work for a well known Medical Establishment in Virginia and they are getting ready to require “surveillance” testing if you are nonvaccinated . However, for the past year and a half we have not been required to do anything short of a temp and “wellness” attestation. (Mask has been required! ((10-12 hours a day and same mask for a week)) but no test)!  I and other teammates that are not vaccinated feel pressured and “bullied” and feel our jobs are in jeopardy.  I am a nurse.
+
+
+
+
+
+										Corrie Brogle |
+					June 21, 2021 at 4:49 pm |
+														
+
+Very excellence question Catherine! I am a nurse too and would love to know what you’ve found out regarding this. This is such a battle defending our rights, I hope you and your colleagues are staying strong in the fight.
+
+
+
+
+
+										Barbara Thurman |
+					September 6, 2021 at 5:52 pm |
+														
+
+I would like to know the same thing??? I work for a local government agency. They are “threatening” to discipline if we do not comply with the jab (Not following orders). They are in negotiations right now regarding weekly testing.  Brad Dacus at PJI.org has stated that the PCR test uses a carcinogen on the cotton swab. Not good if it is used weekly. So what happens with that??? I am my own best advocate for my bodies health. I do not feel that I should  be pressured to be injected with something that surrounds my cells with a protein that and those cells travel to all the organs and all my T-cells attack. But the protein multiplies faster then my T-cells can cope.
+No I don’t think so.  Any advice would be helpful.
+
+
+
+
+
+ 
+ 
+Leave a comment Cancel replyYou must be logged in to post a comment. 
+
+
+TAKE ACTIONJoin
+Donate
+Volunteer
+CategoriesACA/Obamacare
+All Patients
+APRA News
+COVID
+Drug and Medical Device Recall Toolkit
+Health Insurance Toolkit
+Hospital and Surgeon Ratings and Rankings
+Hospital News
+Hospital Patients
+Insurance
+Laws and Regulations
+Legal and Medical Forms
+Medicaid
+Medical Bills
+Medical Bills Toolkit
+Medical Cost Alerts
+Medical Costs
+Medical Costs Toolkit
+Medical Devices
+Medical System
+Medical Treatments
+Medicare
+Medications
+Member Stories
+Nursing Homes
+Other Medical Stories
+Patient Advocates
+Patient Privacy
+Patient Privacy Toolkit
+Patient Resources
+Patient Rights
+Patient Safety
+Patient Safety Toolkit
+Press Releases
+Private Insurance
+Senior Alerts
+Senior Safety
+Tests and Imaging
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Log In 
+Username or Email Address
+
+
+Password
+
+ Remember Me
+
+
+ 
+
+Join Now | Lost Password?  
+ 
+
+ FOLLOW USdiv.heateor_sss_follow_ul{width:100%;text-align:center;}.widget_heateor_sss_follow div.heateor_sss_follow_ul a{float:none!important;display:inline-block;} 
+
+ABOUT APRAWho We Are
+What We Do
+ 
+
+TAKE ACTIONJoin
+Donate
+Volunteer
+ 
+
+STAY UP-TO-DATE
+
+
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+
+
+
+
+
+SUBSCRIBE TO OUR NEWSLETTER
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='PMPLEVELID';ftypes[3]='number';fnames[4]='PMPALLIDS';ftypes[4]='text';fnames[5]='PMPLEVEL';ftypes[5]='text';}(jQuery));var $mcj = jQuery.noConflict(true);
+ 
+
+
+
+
+
+© 2023. American Patient Rights Association, Inc. By using this site you agree to the Terms of Service, Privacy Policy, and Legal Statement.
+		
+		
+
+
+
+
+
+			<!--
+			var sc_project=011887539;
+			var sc_security="54f1767a";
+						var scJsHost = (("https:" == document.location.protocol) ?
+				"https://secure." : "http://www.");
+			//-->
+			
+document.write("<sc"+"ript src='" +scJsHost +"statcounter.com/counter/counter.js'></"+"script>");		
+
+
+
+
+
+
+ 
+    jQuery(document).ready(function() {
+    var xyz="<input type=\"button\" value=\"see password\" style='margin-left: 4px;' onclick='document.getElementById(\"password\").type=\"text\"'/>"
+    jQuery('.page-id-2430 #password').next().after(xyz);
+	
+	var xyz2="<input type=\"button\" value=\"see password\" style='margin-left: 4px;' onclick='document.getElementById(\"password2\").type=\"text\"'/>"
+    jQuery('.page-id-2430 #password2').next().after(xyz2);
+		
+});
+    
+
+
+
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.americanpatient.org\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var mailoptin_globals = {"public_js":"https:\/\/www.americanpatient.org\/wp-content\/plugins\/mailoptin\/src\/core\/src\/assets\/js\/src","public_sound":"https:\/\/www.americanpatient.org\/wp-content\/plugins\/mailoptin\/src\/core\/src\/assets\/sound\/","mailoptin_ajaxurl":"\/aha-patients-bill-of-rights\/?mailoptin-ajax=%%endpoint%%","is_customize_preview":"false","disable_impression_tracking":"false","sidebar":"0","js_required_title":"Title is required.","is_new_returning_visitors_cookies":"false"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var option = {"mystickyClass":"#Top_Menu","activationHeight":"0","disableWidth":"0","disableLargeWidth":"0","adminBar":"false","device_desktop":"1","device_mobile":"1","mystickyTransition":"slide","mysticky_disable_down":"false"};
+/* ]]> */
+
+
+
+
+
+
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://www.americanpatient.org/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.americanpatient.org/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.americanpatient.org/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
+
+
+
+
+
+
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LceJbsUAAAAAFqVx9WbVRciozeeTl4gi4rKS2jJ","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+
+
+
+
+
