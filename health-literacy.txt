@@ -1,0 +1,670 @@
+
+
+
+
+
+
+
+
+
+
+
+
+(function(w,d,s,l,i){
+  w[l]=w[l]||[];
+  w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+  var f=d.getElementsByTagName(s)[0];
+  var j=d.createElement(s);
+  var dl=l!='dataLayer'?'&l='+l:'';
+  j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'';
+  j.async=true;
+  f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M24QNLS');
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+Culture, Language, and Health Literacy | HRSA
+
+
+
+!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("%7B%22secure_cookie%22%3A%20true%7D");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();
+!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="Q6969-C6DDN-TEHNY-FS4H8-J387D",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"Q6969-C6DDN-TEHNY-FS4H8-J387D",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="epwr6qqxas2xczalqdgq-f-4a3d1a8e8-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"34","ak.cp":"560009","ak.ai":parseInt("366032",10),"ak.ol":"0","ak.cr":21,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"2b02bb54","ak.r":41488,"ak.a2":e,"ak.m":"dscx","ak.n":"essl","ak.bpcip":"35.237.31.0","ak.cport":44426,"ak.gh":"23.220.107.198","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1678475469","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Jq0ab+g9PZRi1+G5AWdrMsSdvLpoFFheuxpzblwbb1rPTc2i4JiDv+6f3LPNodVL2wg/XNxJvTGdOc4fudprEyRKETjvQ3qtqL/p30+fuJUFzRWTdaI6lRZs7y0KajrzYZ6CHJwgkhruyiO/foFLV3GrR5y4oIuaj7Uzoc50rJatc82T3NggySSeExa9LSjgHzyIXBMYs5VF3UzkIsICZSRR0xUPToG+f8oqmwBKnMQDpocYgJ/aHdKBu08mjUkNebIRB75ClsN2kP9pUrfDH0TvEul6dsAz7NQpeB86Ubj+5zYEnfZwHtaTcxqeO9ELuWX7S/lR3JkqjqKuYCZ6HrXAVsPbUgPKHsBk1kZwBakCC79UEhJ/FKLfTEgIP4mMYWIht+GRpG4QWu9MSWcs3hfXmHwess69rvrCNpvEV5g=","ak.pv":"129","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+U.S. Department of Health & Human Services
+
+Health Resources & Services Administration
+
+
+
+Explore
+
+
+Bureaus and Offices
+
+
+Newsroom
+
+
+Contact HRSA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      HRSA
+    
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Grants
+
+
+
+
+Grants Overview
+
+
+
+
+Find Funding
+
+
+
+
+Apply for a Grant
+
+
+
+
+Manage Your Grant
+
+
+
+
+Attend Training
+
+
+
+
+Become a Grant Reviewer
+
+
+
+
+Award Recipients FAQs
+
+
+
+
+Congressionally Directed Spending
+
+
+
+
+Get Help with HRSA Grants & EHBs
+
+
+
+
+
+
+Loans & Scholarships
+
+
+
+
+Loans & Scholarships Overview
+
+
+
+
+Faculty Loan Repayment
+
+
+
+
+National Health Service Corps
+
+
+
+
+Native Hawaiian Health Scholarship
+
+
+
+
+Nurse Corps Loan Repayment Program
+
+
+
+
+Nurse Corps Scholarship Program
+
+
+
+
+For Schools: Loan Programs
+
+
+
+
+
+
+Data Warehouse
+
+
+
+
+Data Warehouse Overview
+
+
+
+
+Data Explorer
+
+
+
+
+Download Data
+
+
+
+
+Explore Maps
+
+
+
+
+Find Shortage Areas
+
+
+
+
+Find a Health Center
+
+
+
+
+View Fact Sheets
+
+
+
+
+
+
+Training & TA Hub
+
+
+
+
+Training & Technical Assistance Overview 
+
+
+
+
+Behavioral Health
+
+
+
+
+Care Teams
+
+
+
+
+Child and Adolescent Health
+
+
+
+
+Chronic and Infectious Diseases
+
+
+
+
+Financing
+
+
+
+
+Health Information Technology
+
+
+
+
+HIV/AIDS
+
+
+
+
+Maternal Health
+
+
+
+
+Older Adult Health
+
+
+
+
+Oral Health
+
+
+
+
+Performance Measurement & Quality Improvement
+
+
+
+
+Research
+
+
+
+
+Rural Health
+
+
+
+
+Social Determinants of Health
+
+
+
+
+Telehealth
+
+
+
+
+Training Centers
+
+
+
+
+Workforce
+
+
+
+
+
+
+About HRSA
+
+
+
+
+About HRSA Overview
+
+
+
+
+Budget
+
+
+
+
+Bureaus & Offices
+
+
+
+
+eNews
+
+
+
+
+Key Staff
+
+
+
+
+Organization Chart
+
+
+
+
+Press Releases
+
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search 
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Breadcrumb
+
+
+Home
+
+
+About HRSA
+
+
+Organization
+
+
+Bureaus & Offices
+
+
+Office of Health Equity
+
+
+Health Literacy
+
+
+									Culture, Language, and Health Literacy
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Culture, Language, and Health Literacy
+
+
+
+
+
+
+
+
+
+Effective health communication is as important to health care as clinical skill.
+To improve individual health and build healthy communities, health care providers need to recognize and address the unique culture, language and health literacy of diverse consumers and communities.
+
+Cultural and Linguistic Competence
+The National Center for Cultural Competence
+	The Center works to increase the capacity of health care programs to design, implement, and evaluate culturally and linguistically competent service delivery systems that address growing diversity, persistent disparities, and to promote health and mental health equity.
+Cultural and Linguistic Competence Policy Assessment (CLCPA)
+	The National Center for Cultural Competence (NCCC) developed the CLCPA at HRSA's request. It assists community health centers to advance and sustain cultural and linguistic competence.
+HIV/AIDS
+Cultural Competency & HIV/AIDS Care
+Culturally competent service providers are crucial to recruiting and retaining people living with HIV/AIDS into primary care. This is particularly true when they are members of historically disenfranchised communities and populations such as people of color, gay men, women, and substance users.
+Maternal & Child Health
+Documenting the Implementation of Cultural and Linguistic Competence: A Guide for Maternal and Child Health Bureau Funded Training Programs (PDF - 139 KB)
+Suggested approaches for grant proposals, progress reports, and site visits to document these efforts or progress over time.
+How to define key terms
+Culture
+Attitudes and behaviors, which are characteristic of a group or community.
+Cultural Competence
+A set of similar behaviors, attitudes, and policies that come together in a system, agency, or among professionals that enables effective work in cross-cultural situations.
+Limited English Proficiency (LEP)
+Individuals who do not speak English as their primary language and who have a limited ability to read, speak, write, or understand English can be limited English proficient, or "LEP." These individuals may be entitled to language assistance with respect to a particular type or service, benefit, or encounter.
+Title VI of the Civil Rights Act of 1964 requires recipients of federal financial assistance to take reasonable steps to make their programs, services, and activities by eligible persons with limited English proficiency.
+Health Literacy
+The degree to which individuals can obtain, process, and understand basic health information and services necessary to make appropriate health decisions.
+Plain Language
+Writing that is clear, to the point, helps to improve communication and takes less time to read and understand.
+Additional Federal Resources
+National Partnership for Action to End Health Disparities Toolkit for Community Action (PDF - 9 MB) U.S. Department of Health and Human Services
+Health Literacy Universal Precautions Toolkit Agency for Healthcare Research & Quality
+Toolkit for Making Written Materials Clear and Effective Centers for Medicare and Medicaid Services
+Clear Communication National Institutes of Health
+
+
+
+
+Date Last Reviewed:
+
+October 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+Sign up for email updates.
+Subscribe
+
+
+
+
+
+
+
+
+Find a Medically Underserved Area 
+
+Search the data
+
+
+
+
+
+About HRSA
+
+
+
+Bureaus & Offices
+
+
+Budget
+
+
+Strategic Plan
+
+
+Working at HRSA
+
+
+About HRSA
+
+
+
+
+
+
+
+HRSA Health Resources and Services Administration
+
+
+Facebook
+Twitter
+YouTube
+LinkedIn
+Instagram
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+Helpful Links
+
+
+
+Accessibility
+
+
+Disclaimers
+
+
+Freedom of Information Act
+
+
+Health and Human Services
+
+
+No FEAR Act
+
+
+Privacy Policy
+
+
+USA.gov
+
+
+Viewers & Players
+
+
+Vulnerability Disclosure Policy
+
+
+WhiteHouse.gov
+
+
+
+
+
+
+
+Language Assistance
+
+
+
+Deutsch
+
+
+English
+
+
+Español
+
+
+Français
+
+
+Italiano
+
+
+Kreyòl Ayisyen
+
+
+Polski
+
+
+Português
+
+
+Tagalog
+
+
+Tiếng Việt
+
+
+Русский
+
+
+العربية
+
+
+فارسی
+
+
+日本語
+
+
+繁體中文
+
+
+한국어
+
+
+
+
+
+
+
+
+
+{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2721","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":".\\.gov|.\\.mil","extInclude":".govdelivery.|.hrsa-gov.|.facebook.com\\\/organdonor.gov","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"ajaxTrustedUrl":{"https:\/\/search.usa.gov\/search":true},"sitewideAlert":{"refreshInterval":15000,"automaticRefresh":true},"user":{"uid":0,"permissionsHash":"0b41c3f428d727e861969f984a0e27340685b68342c9ac6ba8db9c8e37a6b8db"}}
+
+
+
+
+
+
+
