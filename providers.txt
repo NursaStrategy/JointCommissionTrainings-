@@ -1,0 +1,1025 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ForeSee Embed Script v2.01
+	// DO NOT MODIFY BELOW THIS LINE *****************************************/
+	;(function (g) {
+		var d = document, am = d.createElement("script"), h = d.head || d.getElementsByTagName("head")[0], fsr = "fsReady",
+			aex = {
+				"src": "https://www.cdc.gov/JScript/foresee/latest/gateway.min.js",
+				"type": "text/javascript",
+				"async": "true",
+				"data-vendor": "fs",
+				"data-mode": "selfhost",
+				"data-environment": "production",
+				"data-hasssl": "true",
+				"data-client": "cdc",
+				"data-codelocation": "https://www.cdc.gov/JScript/foresee/latest/foresee_assets/code/19.14.4-fs/",
+				"data-isselfhosted": "true",
+				"data-product-assets": "https://www.cdc.gov/JScript/foresee/latest/foresee_assets/product_assets/",
+				"data-role": "gateway"
+			};
+		for (var attr in aex){am.setAttribute(attr, aex[attr]);}h.appendChild(am); g[fsr] || (g[fsr] = function () {var aT = "__" + fsr + "_stk__";g[aT] = g[aT] || [];g[aT].push(arguments);});
+	})(window);
+	/* DO NOT MODIFY ABOVE THIS LINE *****************************************/
+
+
+
+Hand Hygiene Guidance | Hand Hygiene | CDC
+  
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+Skip directly to site content
+Skip directly to page options
+Skip directly to A-Z link
+
+
+
+
+
+
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People
+
+
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hand Hygiene in Healthcare Settings
+
+
+
+
+
+
+
+
+
+
+
+
+Section Navigation
+
+
+
+
+
+
+
+
+CDC Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Facebook
+Twitter
+LinkedIn
+Syndicate
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hand Hygiene Guidance 
+
+
+
+Minus
+
+
+
+
+Related Pages
+
+
+
+
+The Core Infection Prevention and Control Practices for Safe Care Delivery in All Healthcare Settings recommendations of the Healthcare Infection Control Practices Advisory Committee (HICPAC) include the following strong recommendations for hand hygiene in healthcare settings.
+Healthcare personnel should use an alcohol-based hand rub or wash with soap and water for the following clinical indications:
+
+Immediately before touching a patient
+Before performing an aseptic task (e.g., placing an indwelling device) or handling invasive medical devices
+Before moving from work on a soiled body site to a clean body site on the same patient
+After touching a patient or the patient’s immediate environment
+After contact with blood, body fluids, or contaminated surfaces
+Immediately after glove removal
+
+Healthcare facilities should:
+
+Require healthcare personnel to perform hand hygiene in accordance with Centers for Disease Control and Prevention (CDC) recommendations
+Ensure that healthcare personnel perform hand hygiene with soap and water when hands are visibly soiled
+Ensure that supplies necessary for adherence to hand hygiene are readily accessible in all areas where patient care is being delivered
+
+Unless hands are visibly soiled, an alcohol-based hand rub is preferred over soap and water in most clinical situations due to evidence of better compliance compared to soap and water. Hand rubs are generally less irritating to hands and, in the absence of a sink, are an effective method of cleaning hands.
+Core Infection Prevention and Control Practices for Safe Healthcare Delivery in All Settings –Recommendations of the HICPAC
+Guideline for Hand Hygiene in Healthcare Settings
+Guideline for Hand Hygiene in Healthcare Settings pdf icon[PDF – 495 KB]
+Guideline for Hand Hygiene in Healthcare Settings without Appendix
+Appendix: Guideline for Hand Hygiene in Healthcare Settings
+
+Related Infection Control Guidelines
+Isolation Precautions
+Outlines precautions that healthcare providers should take to protect themselves and their patients from infection.
+Surgical Site Infection
+Provides recommendations on healthcare provider hand/forearm antisepsis.
+
+
+
+
+Educational Slide Sets (May 2003)Core slides and accompanying speaker notes provide an overview of the Guideline for Hand Hygiene in Healthcare Settings published in 2002.
+
+Hand Hygiene in Healthcare Settings-Core Slides pdf icon[PDF – 132 KB]
+Hand Hygiene in Healthcare Settings-Core Slides ppt icon[PPT – 385 KB]
+
+Supplement slides provide additional slides that may be used in conjunction with the core slide set.
+
+Hand Hygiene in Healthcare Settings-Supplement Slides pdf icon[PDF – 471 KB]
+Hand Hygiene in Healthcare Settings-Supplement Slides ppt icon[PPT – 1 MB]
+
+Top of Page
+
+
+
+
+
+
+
+
+
+
+						Page last reviewed:  January 30, 2020 Content source:  	Centers for Disease Control and Prevention, National Center for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of Healthcare Quality Promotion (DHQP)
+
+
+
+
+
+
+
+
+
+home
+Hand Hygiene in Healthcare Settings
+
+
+
+Healthcare Providersplus icon
+
+Guidance
+Education Courses
+
+
+Patients
+
+Show Me the Scienceplus icon
+
+Hand Hygiene Research
+
+
+Fire Safety
+
+Clean Hands Count Campaignplus icon
+
+Promotional Materials 
+
+Media and Social Mediaplus icon
+
+Provider: Clean Hands Count
+Provider: Know How Germs Spread
+Provider: Alcohol-based Hand Sanitizer
+Provider: Technique Matters
+Provider: C. diff Requires Special Care
+Provider: Gloves Are Not Enough
+Patient: Clean Hands Count
+Patient: It’s Okay To Speak Up
+Patient: Protect Yourself
+Patient: Clean Hands Count For C. difficile
+
+
+Hand Hygiene Through the Years (Archive)
+Related Resources
+
+
+
+ 
+
+See the CDC Handwashing: Clean Hands Save Lives website to learn about handwashing in community settings.
+
+
+
+ Get Email Updates  To receive email updates about this page, enter your email address:      Email Address       What's this?   Submit       
+
+
+
+
+
+
+
+
+
+
+
+
+
+About CDC
+Contact Us
+800-232-4636
+
+
+
+
+Facebook
+Twitter
+Instagram
+LinkedIn
+Youtube
+Pinterest
+Snapchat
+
+
+
+
+
+
+
+
+					CONTACT CDC
+				
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+
+
+
+Call 800-232-4636
+
+
+
+
+
+
+
+Email Us
+
+
+
+
+
+
+
+
+					ABOUT CDC
+				
+
+
+
+About CDC
+Jobs
+Funding
+
+
+
+
+
+
+					POLICIES
+				
+
+
+
+Accessibility
+External Links
+Privacy
+Policies
+No Fear Act
+FOIA
+OIG
+Nondiscrimination
+Vulnerability Disclosure Policy
+
+
+
+
+
+
+					CONNECT WITH US
+				
+
+
+
+
+Facebook
+Twitter
+Instagram
+LinkedIn
+
+
+Youtube
+Pinterest
+Snapchat
+Email
+
+
+
+
+
+
+
+					LANGUAGES
+				
+
+
+
+Español
+繁體中文
+Tiếng Việt
+한국어
+Tagalog
+Русский
+العربية
+Kreyòl Ayisyen
+Français
+Polski
+Português
+Italiano
+Deutsch
+日本語
+فارسی
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U.S. Department of Health & Human Services
+Accessibility
+External Links
+Privacy
+Policies
+No Fear Act
+FOIA
+Nondiscrimination
+OIG
+Vulnerability Disclosure Policy
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAS
+
+
+
+
+stats
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			.st0 {
+				fill: #FFFFFF;
+			}
+
+			.st1 {
+				fill: none;
+				stroke: #FFFFFF;
+				stroke-width: 2.1206;
+			}
+
+			.st2 {
+				fill: #005DA9;
+			}
+
+			.st3 {
+				fill: none;
+				stroke: #FFFFFF;
+				stroke-width: 1.8943;
+			}
+
+			.st4 {
+				fill: #607171;
+			}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			.st0 {
+				fill: #FFFFFF;
+			}
+
+			.st1 {
+				fill: none;
+				stroke: #FFFFFF;
+				stroke-width: 2.1206;
+			}
+
+			.st2 {
+				fill: #005DA9;
+			}
+
+			.st3 {
+				fill: none;
+				stroke: #FFFFFF;
+				stroke-width: 1.8943;
+			}
+
+			.st4 {
+				fill: #607171;
+			}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    s.pageName=document.title; 
+s.channel="HandHygiene";
+siteCatalyst.setLevel1("NCEZID"); 
+siteCatalyst.setLevel2("DHQP"); 
+siteCatalyst.setLevel3("Hand Hygiene");     
+    
+
+	window.shortTitle = "Guideline";
+	window.pageOptions = window.pageOptions || {};
+	window.pageOptions.navigation = window.pageOptions.navigation || { fourthLevelCollapsed: false, showFourthLevel: true	}; 		window.pageOptions.navigation.breadcrumbs = {
+			mode: 'auto',
+			showCurrentPage: false,
+			prefix: [{
+				text: 'CDC',
+				href: 'https://www.cdc.gov/'
+			}]
+		};
+	window.CDC.tp4.public.appInit( window.pageOptions );
+
+	$( document ).ready( function() {
+		CDC.Search.init();
+	} );
+
+
+
+
+
+
+Exit Notification / Disclaimer Policy
+
+Close
+
+
+
+
+
+
+Links with this icon  indicate that you are leaving the CDC website.
+
+The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+You will be subject to the destination website's privacy policy when you follow the link.
+CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+
+
+			For more information on CDC's web notification policies, see Website Disclaimers.
+		
+
+
+Cancel
+Continue
+
+
+
+
+
+
+
+
+
+CDC.gov Privacy Settings
+
+
+We take your privacy seriously. You can review and change the way we collect information below.
+
+
+
+
+
+
+
+								Performance Cookies Checkbox
+							
+
+
+										Performance Cookies
+									
+
+
+
+
+
+
+									These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+								
+
+
+
+
+
+
+								Functional Cookies Checkbox
+							
+
+
+										Functional Cookies
+									
+
+
+
+
+
+
+									Cookies used to make website functionality more relevant to you. These cookies perform functions like remembering presentation options or choices and, in some cases, delivery of web content that based on self-identified area of interests.
+								
+
+
+
+
+
+
+								Campaign Cookies Checkbox
+							
+
+
+										Campaign Cookies
+									
+
+
+
+
+
+
+									Cookies used to track the effectiveness of CDC public health campaigns through clickthrough data.
+								
+
+
+
+
+
+
+								Social Media Cookies Checkbox
+							
+
+
+									Social Media Cookies
+								
+
+
+
+
+
+
+									Cookies used to enable you to share pages and content that you find interesting on CDC.gov through third party social networking and other websites. These cookies may also be used for advertising purposes by these third parties.
+								
+
+
+
+
+
+
+
+Remove all
+
+
+Confirm Choices
+
+
+
+
+
+Confirmed!
+Thank you for taking the time to confirm your preferences. If you need to go back and make any changes, you can always do so by going to our Privacy Policy page.
+Close
+
+
+
+
+
