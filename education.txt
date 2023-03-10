@@ -1,0 +1,481 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nurses - Think Cultural Health
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-PNNBSC');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+Menu
+
+
+
+
+Think Cultural Health
+
+
+
+
+
+
+
+
+
+Home
+
+About Us
+
+
+National CLAS Standards
+
+CLAS Overview
+What is CLAS?
+The Standards
+The Blueprint
+Crosswalks
+Health Equity Timeline
+Tracking CLAS
+
+
+
+Education
+
+Education Overview
+Behavioral Health
+Communication Guide
+Deployment Refresher
+Disaster Personnel
+Maternal Health Care
+Nurses
+Oral Health Providers
+Physicians
+Promotores de Salud
+
+
+
+Resources
+
+Resources Overview
+Resource Library
+Presentations
+Video Units
+Health and Civil Rights
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "@context": "http://schema.org/",
+  "@type": "Course",
+  "name": "Culturally Competent Nursing Care: A Cornerstone of Caring",
+  "description": "This e-learning program will equip you with the knowledge, skills, and awareness to provide the best care for all patients, regardless of cultural or linguistic background.",
+  "audience": {
+    "@type": "EducationalAudience",
+    "name": "Health and health care professionals"
+  },
+  "provider": {
+    "@type": "GovernmentOrganization",
+    "name": "US Secretary of Health and Human Services "
+  }
+}
+
+
+
+
+
+
+Home
+Education
+Nurses
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Culturally Competent Nursing Care: A Cornerstone of Caring
+A free, online educational program accredited for nurses.
+Begin Program
+
+
+
+
+
+
+
+
+
+
+
+Program Details
+
+
+
+About This Program
+As healthcare disparities among cultural minority groups persist in our country, culturally and linguistically appropriate services (CLAS) are increasingly recognized 
+as an important strategy for improving quality of care to diverse populations. This e-learning program will equip you with the knowledge, skills, and awareness to provide 
+the best care for all patients, regardless of cultural or linguistic background.
+
+Target Audience
+
+Nurses
+Any direct service provider interested in learning about culturally and linguistically appropriate services
+
+
+Overview
+
+Course 1 covers how to deliver culturally and linguistically competent nursing care, including a self-awareness tool and strategies for delivering .
+patient-centered care.
+Course 2 covers communication and language assistance, including how to work effectively with an interpreter.
+Course 3 covers organizational CLAS-related activities, including strategic planning, staff training, and community partnerships.
+
+
+Credit Designation
+Nurses - 9 credits
+
+
+
+
+
+In support of improving patient care, this activity has been planned and implemented by Cine-Med and 	  the US Department of Health and Human Services.  
+	Cine-Med is jointly accredited by the Accreditation Council for Continuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the American Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team.
+  
+
+
+Please note: Because this program is for independent study, contact hours earned through this CE are recognized by the State of California Board of Registered Nursing.
+
+Begin Program
+
+
+
+
+
+National CLAS Standards
+
+
+
+
+
+
+
+National CLAS Standards (PDF – 48 KB)
+
+
+
+This e-learning program is grounded in the HHS Office of Minority Health's National Standards for Culturally and Linguistically Appropriate Services (CLAS) in Health and Health Care.
+The program is intended to support the delivery of culturally and linguistically competent services and the implementation of the National CLAS Standards.
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+  $('body').on('click', '.display-modal-footnotes', function() {
+    $('#modal-footnotes-content').html(
+      '<h2 class="section-heading5 mt-0 mb-4">' + $(this).data('title') + '</h2>'
+      + $(this).data('content')
+    );
+  });
+
+
+
+
+
+
+
+
+
+
+Connect With Us
+
+
+OMH Facebook
+
+
+OMH Twitter
+
+
+OMH Instagram
+
+
+TCH YouTube
+
+
+
+
+
+
+
+
+
+Share
+
+
+Email a Colleague
+
+
+TCH Widgets
+
+
+
+
+
+
+
+
+Stay Connected
+Subscribe to receive our latest news and updates
+Sign Up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TCH Home
+OMH Home
+HHS Home
+HHS Vulnerability Disclosure Policy
+
+
+
+
+
+
+
+
+
+USA.gov
+Plain Writing Act
+FOIA
+
+
+
+
+
+
+
+
+
+Accessibility
+Viewers & Players
+Acknowledgements
+
+
+
+
+
+
+
+
+
+Privacy Policy
+Disclaimers
+Site Map
+
+
+
+
+
+
+
+
+
+
+Content for this site is maintained by the Office of Minority Health, U.S. Department of Health & Human Services.
+
+
+
+
+
+
+
+
+
+
+
+
+
