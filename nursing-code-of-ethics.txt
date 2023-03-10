@@ -1,0 +1,1217 @@
+
+
+
+
+
+
+
+    function OptanonWrapper() { }
+    
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-M2J7RSW');
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+    
+
+
+What is the Nursing Code of Ethics? | Nurse.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        (function(s,k) {
+            var now = (new Date()).getTime();
+            var v = null;
+            if (typeof s !== 'undefined' && (!(k in s) || ((v = JSON.parse(s.getItem(k))) && v && (now > v.expiry || !v.expiry || !v.state)))) {
+                s.setItem(k, JSON.stringify({
+                    cloudfront: { region: 'SC' },
+                    maxmind: { region: 'SC' },
+                    state: 'SC',
+                    expiry: now + (60 * 60 * 24 * 30),
+                }));
+            }
+        })(window.localStorage, 'beakerGeolocation');
+    
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sign In with Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sign In with Google
+
+OR
+
+
+Log In
+
+
+Register
+
+
+
+
+
+
+
+E-mail
+
+
+
+Password
+
+
+
+Forgot password?
+
+
+
+Log In
+
+
+
+
+
+
+
+E-mail
+
+
+
+Password
+
+
+
+Confirm Password
+
+
+
+
+Register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+Sign up to receive the latest nursing news and exclusive offers.
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+                            Nursing Education
+                            
+
+
+
+
+
+
+Nursing Degrees
+
+
+ADN
+
+
+BSN
+
+
+MSN
+
+
+NP
+
+
+DNP
+
+
+More
+
+
+
+
+Top Nursing Programs
+
+
+Top Nursing Schools
+
+
+Top Online RN to BSN Programs
+
+
+Top Accelerated BSN Programs
+
+
+Top Cheap, Fast RN to BSN Programs
+
+
+Top MSN Programs
+
+
+Top Cheap, Fast Online MSN Programs
+
+
+Top NP Programs
+
+
+Top Psychiatric NP Programs
+
+
+Top Pediatric NP Programs
+
+
+Top Nursing Informatics Programs
+
+
+CRNA Schools by State
+
+
+
+
+Related Articles
+
+
+Types of Master’s Degrees in Nursing
+
+
+How to Get a DNP
+
+
+Highest Paying MSN Jobs for Nurses
+
+
+Getting Into Nursing School
+
+
+Nursing School Clinicals
+
+
+Paying for Nursing School
+
+
+Student Loan Forgiveness
+
+
+How to Pass the NCLEX
+
+
+
+
+
+
+
+
+                            Career Planning
+                            
+
+
+
+
+
+
+Top Nursing Careers
+
+
+Nurse Practitioner
+
+
+Psychiatric Nurse Practitioner
+
+
+Nurse Anesthetist
+
+
+Aesthetic Nurse Practitioner
+
+
+Aesthetic Nurse
+
+
+Forensic Nurse
+
+
+Labor and Delivery Nurse
+
+
+Nursing Informatics
+
+
+More
+
+
+
+
+Career Advancement
+
+
+RN to BSN
+
+
+RN to MSN
+
+
+RN to NP
+
+
+CNA to RN
+
+
+LPN to RN
+
+
+RN to DNP
+
+
+
+
+Popular Articles
+
+
+Nurse Salaries
+
+
+Highest Paying Nursing Jobs
+
+
+Nursing Resumes
+
+
+Types of Nurses
+
+
+Nursing Interview Guide
+
+
+Nursing Levels
+
+
+
+
+
+
+
+
+                            Find Jobs
+                            
+
+
+
+
+
+
+Location
+
+
+New York
+
+
+Los Angeles
+
+
+Chicago
+
+
+Houston
+
+
+Philadelphia
+
+
+All open positions for nursing
+
+
+
+
+Specialty
+
+
+Correctional Health
+
+
+Medical/Surgical
+
+
+ICU
+
+
+Case Management
+
+
+Cath Lab
+
+
+All specialties
+
+
+
+
+Job Type
+
+
+Permanent
+
+
+Travel
+
+
+All job types
+
+
+
+
+
+
+
+
+                            Community
+                            
+
+
+
+
+
+
+Nurse Network
+
+
+About the community
+
+
+Top posts
+
+
+Community events
+
+
+Join Nurse.org's Nurse Network
+
+
+
+
+Community Groups
+
+
+Nursing Students
+
+
+New Grads
+
+
+Advanced Practice Nursing
+
+
+Travel Nurses
+
+
+Night Shift Nurses
+
+
+Non-Bedside Nurses
+
+
+See all nursing groups
+
+
+
+
+Community Topics
+
+
+Announcements
+
+
+Education
+
+
+Careers
+
+
+News
+
+
+Humor/Memes
+
+
+Confessions
+
+
+See all community topics
+
+
+
+
+
+
+
+
+                            Healthcare
+                            
+
+
+
+
+
+
+Healthcare Programs
+
+
+Healthcare Administration
+
+
+Medical Assistant
+
+
+Medical Billing & Coding
+
+
+
+
+Popular Articles
+
+
+How to Become a Pharmacy Technician 
+
+
+How to Become a Medical Biller or Coder
+
+
+How to Become a Healthcare Administrator
+
+
+How to Become a Medical Assistant
+
+
+Top 5 Allied Healthcare Careers
+
+
+View All Articles
+
+
+
+
+
+
+
+
+                            Resources
+                            
+
+
+
+
+
+
+Nursing Organizations
+
+
+Academy of Medical-Surgical Nurses
+
+
+Academy of Neonatal Nursing
+
+
+ACNP- American College of Nurse Practitioners
+
+
+Advanced Practice Nurses of the Ozarks
+
+
+Advanced Practice Nurses of the Permian Basin
+
+
+View All Organizations
+
+
+
+
+Scholarships
+
+
+A Nurse I Am Scholarship
+
+
+A.B. Noel Endowed Scholarship
+
+
+A.T. Anderson Memorial Scholarship
+
+
+Addiction Awareness Scholarship
+
+
+Advantage Medical Staffing Scholarship
+
+
+View All Scholarships
+
+
+
+
+Additional Resources
+
+
+Compact Nursing States
+
+
+CEU’s
+
+
+NCLEX
+
+
+Displaying Your Nursing Credentials
+
+
+Nursing Acronyms Explained
+
+
+Ask Nurse Alice Podcast
+
+
+Nurse Videos: A Day in The Life
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In this article
+
+
+
+Featured Articles
+
+
+
+
+
+
+
+
+
+Top RN to NP Programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top RN to Psychiatric Nurse Practitioner Programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+CRNA Schools by State: 50+ CRNA Programs for 2023
+
+
+
+
+
+
+
+
+
+
+
+                            EDUCATION
+                        
+
+                            November 4, 2022
+                        
+
+What is the Nursing Code of Ethics?
+
+
+
+
+
+
+
+
+
+By: Kathleen Gaines
+ MSN, RN, BA, CBC
+
+
+
+
+
+
+Jump to section...
+
+
+According to the American Nurses Association (ANA), the nursing code of ethics is a guide for “carrying out nursing responsibilities in a manner consistent with quality in nursing care and the ethical obligations of the profession.” Ethics, in general, are the moral principles that dictate how a person will conduct themselves. Ethical values are essential for ALL healthcare workers, but ethical principles in nursing are particularly important given their role as caregivers.
+There are 4 main principles that are part of the nursing code of ethics. They are,
+
+Autonomy
+Beneficence
+Justice
+Non-maleficence
+
+These principles are ideally what every nurse should be aware of in their daily nursing practice. While ethical principles are sometimes confusing and often taught briefly during undergraduate nursing -- they should be constants in nursing practice in order to provide the best, safest, and most humane care to all patients.
+>> Click to See the Highest Paying Jobs for Nurses in 2023
+ 
+History of the Nursing Code of Ethics
+Interestingly, the nursing code of ethics is suggested to have been founded in 1893 and named the “Nightingale Pledge” after Florence Nightingale, the founder of modern nursing. As a modification of the Hippocratic Oath, taken by medical doctors, the Nightingale Pledge has been recited by nursing students at graduations with little changes since inception. 
+The formal code of ethics was developed in the 1950s by the American Nurses Association (ANA) and has undergone numerous modifications since. The most significant recent change was in 2015 when 9 interpretative statements or provisions were added to the code of ethics to help guide nursing practice in a more definitive way. 
+Many states include the ANA’s nursing code of ethics in their practice statements. Even though the code of ethics is primarily ethics-related, it also has legal implications. Given the importance of the code to the nursing profession, revisions continue on a regular basis.
+
+
+
+
+
+Become a Part of the Nurse.org Community!
+Get the latest on all things nursing by joining our email newsletter. You’ll be the first to know about nursing news, trending topics and educational resources.
+
+
+
+
+
+
+
+
+
+
+
+License/Degree
+CNA
+LPN
+RN (Diploma)
+RN (ADN)
+RN (BSN)
+MSN
+DNP
+None
+Other
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+4 Principles of Ethics for Nurses
+1. Autonomy 
+Autonomy is recognizing each individual patient’s right to self-determination and decision-making. As patient advocates, it is imperative that nurses ensure that patients receive all medical information, education, and options in order to choose the option that is best for them. This includes all potential risks, benefits, and complications to make well-informed decisions. 
+Once the patient has all the relevant information, the medical and nursing team can make a plan of care in compliance with the medical wishes of the patient. 
+It is important that nurses support the patient in their medical wishes and ensure that the medical team is remembering those wishes. Sometimes, nurses will need to continue to advocate for a patient despite the wishes being verbalized because the medical team might not agree with those wishes.
+Many factors may influence a patient's acceptance or refusal of medical treatment, such as culture, age, gender, sexual orientation, general health, and social support system.
+2. Beneficence
+Beneficence is acting for the good and welfare of others and including such attributes as kindness and charity. The American Nurses Association defines this as “actions guided by compassion.”
+3. Justice
+Justice is that there should be an element of fairness in all medical and nursing decisions and care. Nurses must care for all patients with the same level of fairness despite the individual's financial abilities, race, religion, gender, and/or sexual orientation. 
+An example of this is when working at a free flu clinic or diabetes screening clinic. These are open to all individuals in the community regardless of the previously mentioned factors.
+4. Nonmaleficence 
+Nonmaleficence is to do no harm. This is the most well-known of the main principles of nursing ethics. More specifically, it is selecting interventions and care that will cause the least amount of harm to achieve a beneficial outcome
+The principle of nonmaleficence ensures the safety of the patient and community in all care delivery. Nurses are also responsible to report treatment options that are causing significant harm to a patient which may include suicidal or homicidal ideations. 
+
+
+
+
+(function() {
+    var options = {
+        instance: "5f3d3f84592cbc0008304bc3",
+        element: document.getElementById("fbctab6ef20a"),
+        mount_type: ""
+    };
+    if (window.ClickTable) {
+        window.ClickTable.mount(options);
+    }
+    window.addEventListener('click-table-loaded', function(){
+        window.ClickTable.mount(options);
+    });
+}());
+
+
+Nursing Code of Ethics Interpretive Statements
+Revised in 2015 to include 9 provisions, the ANA’s nursing code of ethics now includes interpretative statements that can provide more specific guidance for nursing practice.
+9 Provisions of the Nursing Code of Ethics 
+Currently, the nurse’s code of ethics contains 9 main provisions:
+
+The nurse practices with compassion and respect for the inherent dignity, worth, and unique attributes of every person.
+The nurse’s primary commitment is to the patient, whether an individual, family, group, community, or population.
+The nurse promotes, advocates for, and protects the rights, health, and safety of the patient.
+The nurse has authority, accountability, and responsibility for nursing practice; makes decisions; and takes action consistent with the obligation to provide optimal patient care.
+The nurse owes the same duties to self as to others, including the responsibility to promote health and safety, preserve wholeness of character and integrity, maintain competence, and continue personal and professional growth.
+The nurse, through individual and collective effort, establishes, maintains, and improves the ethical environment of the work setting and conditions of employment that are conducive to safe, quality health care.
+The nurse, in all roles and settings, advances the profession through research and scholarly inquiry, professional standards development, and the generation of both nursing and health policy.
+The nurse collaborates with other health professionals and the public to protect human rights, promote health diplomacy, and reduce health disparities.
+The profession of nursing, collectively through its professional organization, must articulate nursing values, maintain the integrity of the profession, and integrate principles of social justice into nursing and health policy.
+
+The aforementioned nine provisions were implemented to help guide nurses in ethical decision-making throughout their practice. 
+Making Ethical Decisions as a Nurse
+Unfortunately, nurses are often unable to make complex ethical decisions based solely on the four principles and nine provisions. In these instances, it is important to consult the ethics committee before making any major decisions. Often, other resources are needed when making major ethical decisions.
+How Nurses Use the Nursing Code of Ethics
+Knowing the nursing code of ethics is essential for nurses because it will help guide everyday practice and navigate the daily complexities of the healthcare profession. Nurses often use the four major ethical principles throughout a shift, even if not fully aware of them. 
+This may include,
+
+Providing pain medication to a post-operative hip replacement
+Holding the hand of a dying patient who is alone
+Advocating for the patient that wants to end chemotherapy and enter hospice care
+
+Nursing is consistently regarded as the most honest and ethical profession and practicing with the nursing code of ethics is essential to ensuring that patients and their families receive the care they have come to know and expect. Utilizing the ethical codes of justice, nonmaleficence, autonomy, and beneficence on a daily basis allows nurses to provide the safest and most compassionate care for their patients. 
+FAQs
+
+
+What are the five codes of ethics in nursing? 
+
+The 5 nursing ethic codes are: nonmaleficence, beneficence, autonomy, justice, and privacy/confidentiality. 
+
+
+
+What is the Professional Code of Ethics for Nurses?
+
+The Professional Code of Ethics for Nurses is the guiding outline for how nurses should behave ethically within their profession and how they should decide to act if they encounter barriers that prevent them from fulfilling their professional obligations. 
+
+
+
+Why is the code of ethics important in nursing? 
+
+It can guide nurses’ professional behavior, provide a framework for decision-making when faced with challenges, and provide support and help prevent moral distress. 
+
+
+
+What is the code of ethics in healthcare? 
+
+There is not one board ethical code for every healthcare professional, although it has been proposed. Instead, each branch of healthcare, from quality control to medical directors to physicians to nursing, has its own ethical codes. 
+
+
+
+What is scholarly ethics in nursing? 
+
+The nurse, in all roles and settings, advances the profession through research and scholarly inquiry, professional standards development, and the generation of both nursing and health policy.
+
+
+
+
+
+
+
+
+            Find Nursing Programs
+        
+
+
+Current Degree
+
+Current Degree
+No Degree/License
+ADN (RN)
+BSN (RN)
+MSN (RN)
+LPN/LVN
+Medical Assistant
+CNA
+Paramedic
+Other
+
+
+
+Desired Degree
+
+Desired Degree
+
+
+
+
+                    Show Me Programs
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured Articles
+
+
+
+
+
+
+
+
+
+Top RN to NP Programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top RN to Psychiatric Nurse Practitioner Programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+CRNA Schools by State: 50+ CRNA Programs for 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Nurse.org
+Contact Us
+Press
+Advertise
+Join our network
+Data Sources
+
+
+Terms of Use
+Privacy Policy
+Advertising Policy
+Cookie Settings
+Do Not Sell My Personal Information
+
+
+
+
+
+Copyright © 2023 Full Beaker, Inc
+
+
+
+
+
+
+
+
+window.addEventListener('DOMContentLoaded',function(){nurse.pages.all.init();});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get All The Nursing Information You Need In Your Inbox
+
+
+
+
+
+
+
+Subscribe for the latest nursing news, offers, education resources and so much more!
+
+
+
+
+
+
+
+
+License/Degree
+CNA
+LPN
+RN (Diploma)
+RN (ADN)
+RN (BSN)
+MSN
+DNP
+None
+Other
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12 Days of Nurses Giveaways!
+
+
+
+Subscribe to our newsletter to be the first to know about our daily giveaways from shoes to Patagonia gear, FIGS scrubs, cash, and more!
+
+
+
+
+
+
+
+
+License/Degree
+CNA
+LPN
+RN (Diploma)
+RN (ADN)
+RN (BSN)
+MSN
+DNP
+None
+Other
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+            !function (u,c,l) {u._UCL=l;var z=c.createElement('script');z.async=0;
+                    z.src='https://sonic-ui.highereducation.com/latest/ucl.adapter.js';
+                    c.head.appendChild(z);
+            }(window, document, {
+                    'identity': '57cdc9f8-ea72-4365-9eea-b86bce0bdcf6'
+            });
+    
+
+
