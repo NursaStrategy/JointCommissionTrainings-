@@ -1,0 +1,161 @@
+
+
+
+
+
+
+NCCC :: Bias
+
+
+
+
+
+  (function(d) {
+    var config = {
+      kitId: 'jdf8iee',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+
+
+
+
+
+
+
+ 
+Georgetown University Center for Child & Human Development
+
+
+
+
+
+
+
+Conscious & Unconscious Biases in Health Care
+
+
+
+Module
+1
+2
+3
+4
+
+
+
+
+
+
+
+
+
+
+
+ Home
+ 1. Defining Bias
+ 2. Impact of Bias
+ 3. Bias & Well-Meaning People
+ 4. Addressing Bias
+ Resources
+
+
+
+ 
+
+
+Conscious & Unconscious Biases in Health Care
+
+
+Why Address Bias in Health Care
+The Institute of Medicine’s (IOM's) landmark study, Unequal Treatment, brought national attention to the critical need to address racial and ethnic health disparities in the U.S. health care system. Numerous public policy initiatives have been launched to address health disparities at the local, state, and national levels.1-6 Nonetheless, when compared with that of non-Hispanic White populations, the incidence of morbidity and mortality among African Americans, Latino/Hispanic Americans, Asian Americans and Pacific Islanders, and American Indians and Alaska Natives remains alarmingly high.7
+Although many underlying causes contribute to health care disparities, the IOM concluded  that bias, stereotyping, prejudice, and clinical uncertainty on the part of health care providers may be major contributing factors.8 New evidence has shed light on the following: the dynamics of conscious and unconscious biases; the effects of bias on patients and providers; and the correlation between bias, differential treatment, and disparities in the health status and outcomes for specific racial, ethnic, and other cultural groups.
+ Read More
+Health care providers, whose professions epitomize helping others, find it very difficult to accept that they may indeed harbor biases that result in differential treatment and care provided to their patients. Reports of overt or explicit racial bias have diminished over time and are rarely reported by members of the medical community.9 However, when health care is influenced by learned stereotypes that operate automatically—and therefore unconsciously—bias is much more difficult to be recognized, admitted, and mitigated by health care providers. A volume of evidence continues to document that health care providers are unaware of their biases because they are at an unconscious level.10-14
+Bias, at a conscious or unconscious level, is a topic that is uncomfortable for many within health care, and it is often minimized, avoided, or in some instances rejected. When health care providers and their colleagues are confronted with the reality of racial and ethnic bias, their level of discomfort multiplies, and the willingness to believe and accept that these biases actually exist diminishes. Fortunately, interventions and resources are emerging to assist health care practitioners and other health professionals to combat conscious and unconscious biases as an approach to promote health equity.
+Course Purpose and Learning Objectives
+This course focuses on conscious and unconscious biases in health care and their impact on people who are disproportionately affected by disparities in health and health care. It will offer an array of innovative activities, based on current evidence and best practices, that are intended to diminish the negative impact of biases.
+Upon completing this course, participants will be able to:
+
+Define conscious (explicit) bias and unconscious (implicit) bias;
+Define health disparities;
+List four areas in which unconscious bias can adversely impact the health care provided to racially, ethnically, and linguistically diverse patient populations;
+Cite and describe four seminal studies from the literature on bias that affects health care;
+Describe three strategies, which draw on neuroscience of unconscious bias, that can be used in everyday practice to mitigate the negative effects of  bias; and
+List two strategies that apply cultural competence to address conscious or unconscious bias in patient care.
+
+To address the issues of conscious and unconsious bias in health care, the NCCC has developed this course in combination with a group of content experts and contributors. Click here for a list of content experts and contributors to this course.
+ References
+
+
+Goode T, Dunne C. Policy Brief 1: Rationale for Cultural Competence in Primary Care. Washington, DC: National Center for Cultural Competence, Center for Child and Human Development, Georgetown University; 2003.AMA Commission to End Health Care Disparities Web site. Available at: http://www.ama-assn.org/ama/pub/physician-resources/public-health/eliminating-health-disparities/commission-end-health-care-disparities.page. Accessed July 18, 2012. HHS Action Plan to Reduce Racial and Ethnic Health Disparities. A nation free of disparities in health and health care. 2011. Available at: http://minorityhealth.hhs.gov/npa/files/Plans/HHS/HHS_Plan_complete.pdf. Accessed July 18, 2012. National Partnership for Action to End Health Disparities Web site. Available at: http://minorityhealth.hhs.gov/npa/. Accessed July 18, 2012.Critical MASS for eliminating health disparities Web site. Available at: http://www.enddisparities.org/. Accessed July 18, 2012.Take Care New York City 2012: a policy for a healthier New York City. Available at: http://www.nyc.gov/html/doh/downloads/pdf/tcny/tcny-2012.pdf. Accessed July 18, 2012.Agency for Healthcare Research and Quality. National Health Care Disparities Report 2011. AHRQ Publication No. 12-0006. 2012:7. Available at: http://www.ahrq.gov/qual/nhdr11/nhdr11.pdf. Accessed July 19, 2012.
+		
+Smedley BD, Stith AY, Nelson AR, eds. Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care. Washington, DC: Committee on Understanding and Eliminating Racial and Ethnic Disparities in Health Care, Institute of Medicine; 2003:19. 
+Dovidio JF, Fiske ST. Under the radar: how unexamined biases in decision-making processes in clinical interactions can contribute to health care disparities. Am J Public Health. May 2012;102(5):945-952.
+Blair IV, Steiner JF, Havranek EP. Unconscious (implicit) bias and health disparities: where do we go from here? Perm. J. 2011;15(2):71-78.Sabin JA, Nosek BA, Greenwald AG, Rivara FP. Physicians’ implicit and explicit attitudes about race by MD race, ethnicity, and gender. J Health Care Poor. 2009;20(3):896-913.
+		
+Schulman K, Berlin J, Harless W, et al. The effect of race and sex on physicians’ recommendations for cardiac catheterization. N Engl J Med. 1999;340(8):618-626.
+Hall JA, Epstein AM, DeCiantis ML, McNeil, BJ. Physicians’ liking for their patients: more evidence for the role of affect in medical care. Health Psych. 1993;12(2):140-146.
+		Ferrante JM, Piasecki AK, Ohman-Strickland PA, Crabtree, BF. Family physicians’ practices and attitudes regarding care of extremely obese patients. Obes. 2009;17(9):1710-1716.
+
+
+
+Start the Course »
+
+
+
+
+
+
+
+	Georgetown University Center for Child 
+	and Human Development National Center for Cultural Competence
+	3300 Whitehaven St., NW, Suite 3300
+	Washington, DC 20007
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
+A
+A
+
+
+
+
+
+
+    //Responsive Navigation
+      	$('.expander').simpleexpand();
+      	jQuery(document).ready(function () {
+      	    jQuery('header nav').meanmenu();
+      	});
+    //ReadMore Accordion
+		$('#info').readmore({
+      	  moreLink: '<a href="#">Usage, examples, and options</a>',
+      	  collapsedHeight: 384,
+      	  afterToggle: function(trigger, element, expanded) {
+      	    if(! expanded) { // The "Close" link was clicked
+      	 $('html, body').animate({scrollTop: $(element).offset().top}, {duration: 100});
+      	    }
+      	  }
+      	});
+      	$('article').readmore({speed: 500});
+	 
+
+
+
