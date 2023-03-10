@@ -1,0 +1,2309 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5SFR24V');
+
+
+            <style>
+body {
+    font-family: "Lato", Helvetica, Verdana, Tahoma, sans-serif;
+    line-height: 1.5;
+}
+@media (max-width: 1600px) {
+	.container, .container-fluid {
+		padding: 0 15px;
+	}
+}
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+.skip-to-content-link {
+    transform: translateY(-100%);
+    transition: transform 0.3s;
+    padding: 5px 0.75em;
+    z-index: 10000;
+    position: absolute;
+}
+
+@media (min-width: 1200px) {
+	.hidden-lg {
+		display: none !important;
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "PT Serif", serif;
+}
+h1 {
+    font-size: 44px;
+    font-size: 2.75rem;
+}
+h2 {
+    font-size: 30px;
+    font-size: 1.875rem;
+}
+.wysiwyg h2, 
+.wysiwyg h3, 
+.wysiwyg h4, 
+.wysiwyg h5 {
+    line-height: 1.2;
+}
+.title h1 {
+    margin: 20px 0;
+    font-size: 36px;
+    font-size: 2.25rem;
+}
+@media (min-width: 64em) {
+	.title h1 {
+		font-size: 60px;
+		font-size: 3.75rem;
+	}
+}
+.has-title-indicator .item__title {
+    position: relative;
+    padding-bottom: 0.8em;
+    margin-bottom: 0.8em;
+}
+@media (min-width: 768px) {
+	.has-title-indicator .item__title {
+		padding-bottom: 0.5em;
+		margin-bottom: 0.5em;
+		font-size: 50px;
+		font-size: 3.125rem;
+	}
+}
+.has-title-indicator .item__title:before {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 5px;
+    background-color: #808080;
+}
+.tjc .title-indicator--theme-2 .item__title:before {
+    background-color: #fec34e;
+    color: #333;
+}
+
+.btn, button.btn, input.btn, a.btn {
+    border-radius: 6px;
+}
+.btn.btn--ghost {
+    padding: 0 10px;
+    line-height: 48px;
+    border-color: currentColor;
+}
+
+.button, 
+input.button, 
+button.button, 
+a.button, 
+.button-wrap .item__ctas a, 
+.button-wrap .item__ctas input, 
+.button-wrap .item__ctas button, 
+.button-wrap .item__ctas .cta--link, 
+.button-wrap > a, 
+.button-wrap > input, 
+.button-wrap > button, 
+.button-wrap > .cta--link {
+    display: inline-block;
+    margin: 0;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 15px 20px;
+    min-width: 140px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    font-size: 1.125rem;
+}
+
+.tjc .component .button-wrap.button--theme-2 > a, 
+.tjc .component .button-wrap.button--theme-2 > input[type=submit], 
+.tjc .component .button-wrap.button--theme-2 > button, 
+.tjc .component .button-wrap.button--theme-2 > .cta--link {
+    background-color: #FEC34E;
+    color: #1F326B;
+}
+
+@media (max-width: 1600px) {
+	.container, .container-fluid {
+		padding: 0 15px;
+	}
+}
+.component-content {
+    font-size: 24px;
+    font-size: 1.5rem;
+}
+.tjc a {
+    color: #1A40AE;
+}
+.tjc .theme-2 {
+    background-color: #FEC34E;
+}
+.tjc .theme-4 {
+    background-color: #F2F3F8;
+}
+.promo-no-padding-important {
+    padding: 0 !important;
+}
+
+#header .account-header .btn {
+    margin-left: 10px;
+    min-width: 150px;
+    font-size: 18px;
+    font-size: 1.125rem;
+}
+.header--sticky {
+    border-bottom: 1px solid #ccc;
+}
+#header .header-middle > .component-content {
+    min-height: 94px;
+}
+#header .container > .component-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#header .container > .component-content > .image {
+    margin: 10px;
+    max-width: 326px;
+}
+@media (min-width: 1140px) {
+	#header .container > .component-content > .image {
+		margin: 30px 100px 30px 0;
+	}
+}
+#header .component.image h1 a, #header .component.image .field-image a {
+    height: 65px;
+}
+@media (min-width: 480px){
+	.tjc #header .component.image h1 a, .tjc #header .component.image .field-image a {
+		width: 315px;
+	}
+}
+@media (min-width: 1140px){
+	#header .link-list {
+		margin: 0.8em 0 0.9em;
+	}
+}
+.image a, .field-summaryicon a {
+    display: inline-block;
+}
+#header .link-list + .link-list, #header .plain-html + .link-list {
+    font-weight: bold;
+}
+.dropdown-link-list .btn {
+    padding-right: 15px !important;
+    color: #1a40ae;
+    background: none;
+    font-size: 18px;
+    font-size: 1.125rem;
+    font-family: "Lato", Helvetica, Verdana, Tahoma, sans-serif;
+}
+.dropdown-link-list .btn:after {
+    content: "";
+    display: inline-block;
+    position: relative;
+    bottom: 0.25em;
+    left: 0.2em;
+    border: 2px solid currentColor;
+    border-top: 0;
+    border-left: 0;
+    width: 0.5em;
+    height: 0.5em;
+    -webkit-transform: rotate(45deg) scale(.9);
+    -ms-transform: rotate(45deg) scale(.9);
+    transform: rotate(45deg) scale(.9);
+}
+
+.menu-toggle {
+    display: block;
+    position: relative;
+    border: 0;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 45px;
+    height: 40px;
+    color: #242d67;
+}
+.menu-toggle:before, .menu-toggle:after, .menu-toggle > span:before {
+    content: " ";
+    position: absolute;
+    left: 15%;
+    border-radius: 5px;
+    width: 70%;
+    height: 4px;
+    background: currentColor;
+}
+.menu-toggle:before {
+    top: 10px;
+}
+.menu-toggle:after {
+    top: 19px;
+}
+.menu-toggle > span:before {
+    top: 28px;
+}
+@media (min-width: 1140px) {
+	.menu-toggle, .search-toggle, .coveo-search-toggle {
+		display: none;
+	}
+}
+
+.search-toggle, .coveo-search-toggle {
+    position: relative;
+    margin-left: auto;
+    margin-right: 10px;
+    text-align: center;
+    width: 32px;
+    height: 32px;
+    color: #242d67;
+}
+.search-toggle:before, .coveo-search-toggle:before {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0;
+    width: 1.4em;
+    height: 1.4em;
+    border: 0.2em solid currentColor;
+    border-radius: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.search-toggle:after, .coveo-search-toggle:after {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0.6em 0 0 0.6em;
+    border-radius: 0.2em;
+    width: 0.7em;
+    height: 0.3em;
+    background: currentColor;
+    -webkit-transform: translate(-50%, -50%) rotate(45deg);
+    -ms-transform: translate(-50%, -50%) rotate(45deg);
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+.magic-box .magic-box-input .magic-box-underlay, .magic-box .magic-box-input > input {
+    padding: 12px 0;
+    text-indent: 12px;
+    line-height: 24px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 48px;
+}
+
+.tjc .theme-1 {
+    background-color: #1F326B;
+}
+@media (max-width: 1139px){
+	#header .has-main-nav {
+		bottom: 0;
+		left: 0;
+		width: 256px;
+		position: absolute !important;
+		-webkit-transform: translate(-256px, -94px) !important;
+		-ms-transform: translate(-256px, -94px) !important;
+		transform: translate(-256px, -94px) !important;
+	}
+}
+.main-menu.click-menu {
+    width: 100%;
+}
+.main-menu.click-menu nav > ul {
+	margin:0;
+	list-style: none;
+}
+.main-menu.click-menu nav > ul > li > a {
+    display: block;
+    position: relative;
+    font-weight: bold;
+    font-size: .85em;
+    font-size: 20px;
+    overflow: hidden;
+}
+.main-menu.click-menu nav > ul > .submenu > a:after {
+    content: " ";
+    display: inline-block;
+    position: relative;
+    top: -0.1em;
+    left: 0.5em;
+    border: 2px solid currentColor;
+    border-top: 0;
+    border-left: 0;
+    width: 0.5em;
+    height: 0.5em;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    -webkit-transform: rotate(45deg) scale(0.9);
+    -ms-transform: rotate(45deg) scale(0.9);
+    transform: rotate(45deg) scale(0.9);
+}
+@media (min-width: 1140px) {
+	.main-menu.click-menu nav > ul, 
+	.main-menu.click-menu .wide-menu > ul {
+		display: flex;
+		justify-content: space-between;
+	}
+	.main-menu.click-menu nav > ul > li > a {
+		padding: 0.8em 0.8em 0.8em 0;
+	}
+	.custom-sub {
+		position: absolute;
+	}
+	.cm-menu .custom-sub {
+		opacity: 0;
+	}
+}
+
+@media (min-width: 1140px) {
+	.main-menu.click-menu {
+		padding: 0 15px;
+	}
+}
+
+.breadcrumb ol {
+    list-style: none;
+}
+.breadcrumb li {
+    position: relative;
+    float: left;
+}
+.breadcrumb .separator {
+    width: 15px;
+    margin: 0 5px;
+    display: inline-block;
+}
+.breadcrumb a {
+    text-decoration: none;
+}
+.breadcrumb li.last a {
+    color: #767676;
+}
+
+.has-padding-top-bottom-important {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+@media (min-width: 992px) {
+	.has-padding-top-bottom-important {
+		padding: 30px 0 !important;
+	}
+}
+
+.tjc .theme-4 .banner__overlay {
+    background: rgba(242,243,248, .9);
+}
+@media (min-width: 992px) {
+	.tjc .theme-4.content--align-l.linear-gradient .banner__overlay {
+		background: -webkit-linear-gradient(left, rgba(242,243,248,1) 0%, rgba(242,243,248,1) 55%, rgba(242,243,248,0) 80%);
+		background: -o-linear-gradient(left, rgba(242,243,248,1) 0%, rgba(242,243,248,1) 55%, rgba(242,243,248,0) 80%);
+		background: linear-gradient(to right, rgba(242,243,248,1) 0%, rgba(242,243,248,1) 55%, rgba(242,243,248,0) 80%);
+	}
+}
+
+.inset-arrows .banner__content {
+    padding: 30px 75px;
+}
+@media (min-width: 768px) {
+	.inset-arrows .banner__content {
+		padding: 60px 11%;
+	}
+}
+@media (min-width: 992px) {
+	.slide .banner__content {
+		max-width: 66%;
+	}
+}
+
+.column-splitter .slideshow .banner__content {
+    padding: 30px 15px;
+}
+@media (min-width: 768px) {
+	.column-splitter .slideshow .banner__content {
+		padding: 60px 10% 60px 4%;
+	}
+}
+
+.banner__content .container {
+    padding: 0;
+}
+
+@media (min-width: 768px){
+	.title--large .banner .item__title {
+		font-size: 60px;
+		font-size: 3.75rem;
+	}
+}
+@media (min-width: 992px) {
+	.title.title--large .field-title, .title--large .field-title {
+		margin-top: -0.2em;
+		margin-bottom: 0.5em;
+	}
+}
+.banner .item__title {    
+	margin: 0 0 0.4em 0;
+    font-size: 35px;
+    font-size: 2.1875rem;
+	line-height: 1.15;
+}
+.banner .item__summary {
+    font-size: 20px;
+    font-size: 1.25rem;
+}
+@media (min-width: 768px) {
+	.banner .item__title {
+		font-size: 50px;
+		font-size: 3.125rem;
+	}
+	.slideshow .banner .item__summary {
+		font-size: 30px;
+		font-size: 1.875rem;
+	}
+	.banner .item__summary {
+		margin: 0 0 0.4em;
+	}
+	.inset-arrows .banner .item__summary {
+		margin: 0.2em 0 0.4em;
+	}
+}
+
+.banner .button, 
+.banner .button-wrap a, 
+.banner .button-wrap input {
+    margin: 1em 0;
+    min-width: 175px;
+}
+@media (max-width: 767px){
+	.banner .button, 
+	.banner .button-wrap a, 
+	.banner .button-wrap input {
+		max-width: 400px;
+		width: 100%;
+	}
+}
+
+.banner__bg {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    background-repeat: no-repeat;
+    background-position: 0 50%;
+    background-size: cover;
+}
+.bg--align-lt .banner__bg {
+    background-position:15% 0%;
+}
+
+.bg--align-lm .banner__bg {
+    background-position:15% 50%;
+}
+
+.bg--align-lb .banner__bg {
+    background-position:15% 100%;
+}
+
+.bg--align-mt .banner__bg {
+    background-position:50% 0%;
+}
+
+.bg--align-mm .banner__bg {
+    background-position:50% 50%;
+}
+
+.bg--align-mb .banner__bg {
+    background-position:50% 100%;
+}
+
+.bg--align-rt .banner__bg {
+    background-position:85% 0%;
+}
+
+.bg--align-rm .banner__bg {
+    background-position:85% 50%;
+}
+
+.bg--align-rb .banner__bg {
+    background-position:85% 100%;
+}
+@media (min-width: 992px) {
+	.content--align-l.bg--half .banner__bg {
+		left: 50%;
+	}
+}
+
+.jump-nav {
+    margin: 1em 0;
+    border: 1px solid #ccc;
+    border-left: 0;
+    border-right: 0;
+    font-weight: 700;
+    background: #fff;
+    clear: left;
+    font-size: 20px;
+}
+.jump-nav__toggle {
+    display: block;
+    border: 0;
+    border-radius: 0;
+    padding: 1em 2em 1em 1em;
+    width: 100%;
+    font-size: 1.125rem;
+    text-transform: uppercase;
+    text-align: inherit;
+    color: #1a40ae;
+    background: none;
+}
+
+.jump-nav__toggle:before, 
+.jump-nav__toggle:after {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    right: 0.5em;
+    width: 1em;
+    height: 2px;
+    background: #ccc;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+@media (min-width: 992px) {
+	.jump-nav__toggle {
+		display: none;
+	}
+}
+
+.jump-nav__links {
+    display: none;
+    float: none;
+	margin: 0 auto;
+}
+@media (min-width: 992px) {
+	.jump-nav__links {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		max-width: 1572px;
+	}
+}
+
+.navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
+}
+@media (min-width: 768px){
+	.navbar-nav > li > a {
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+}
+
+.tjc .accordions-wrap.theme-4 .panel {
+    background-color: #f2f3f8;
+}
+[class*="theme-"] .accordion-list > .panel {
+    border: 0;
+}
+.accordion-list>.panel {
+    margin-bottom: 15px;
+}
+.accordion--default .panel {
+    margin: 0;
+}
+.accordion-list>.panel .panel__heading {
+    padding: 0 30px;
+}
+.accordion--default .panel__heading [aria-expanded] {
+    padding: 30px 0;
+    color: #1b1b1b;
+    font-family: "PT serif",serif;
+}
+.panel__heading [aria-expanded]:before, .panel__heading [aria-expanded]:after {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    background-color: currentColor;
+}
+.panel__heading [aria-expanded]:before {
+    right: 15px;
+    margin-top: -7px;
+    width: 2px;
+    height: 14px;
+}
+.panel__heading [aria-expanded]:after {
+    right: 9px;
+    margin-top: -1px;
+    width: 14px;
+    height: 2px;
+}
+.collapse {
+    display: none;
+}
+
+.slick-arrow {
+    position: absolute;
+    z-index: 100;
+    top: 50%;
+    border: 0;
+    padding: 0;
+    margin-top: -20px;
+    width: 40px;
+    height: 40px;
+    color: transparent;
+    background: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+.slick-prev {
+    left: 1%;
+}
+@media (min-width: 768px) {
+	.inset-arrows .slideshow .slick-prev {
+		left: 1%;
+	}
+}
+@media (min-width: 1200px) {
+	.inset-arrows .slideshow .slick-prev {
+		left: 2.5%;
+	}
+}
+.slick-next {
+    right: 1%;
+}
+@media (min-width: 768px){
+	.inset-arrows .slideshow .slick-next {
+		right: 1%;
+	}
+}
+@media (min-width: 1200px) {
+	.inset-arrows .slideshow .slick-next {
+		right: 2.5%;
+	}
+}
+.slideshow-component .slick-arrow {
+    padding: 30px;
+    background: rgba(0,0,0,.5);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to main content
+National Patient Safety Goals | The Joint Commission
+
+
+
+
+
+
+
+        window.onload = function () {
+            if (!document.getElementById('coveo-js')) {
+                function loadjs(filename) {
+                    var fileref = document.createElement('script')
+                    fileref.setAttribute("type", "text/javascript")
+                    fileref.setAttribute("src", filename)
+                    fileref.setAttribute("defer", "")
+
+                    document.getElementsByTagName("head")[0].appendChild(fileref)
+                }
+
+                loadjs("/Coveo/js/CoveoForSitecorePolyfills.js")
+                loadjs("/Coveo/js/CoveoForSitecore.min.js")
+            }
+        }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coronavirus Resources 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Careers 
+
+E-Alerts 
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+
+
+Main Menu
+ 
+
+
+
+ 
+
+
+
+
+
+Our Websites
+
+
+ 
+
+
+
+
+
+
+
+
+
+            Coveo.$(function () {
+                var searchbox = Coveo.$('#main_search');
+                if (typeof (CoveoForSitecore) !== 'undefined') {
+                    CoveoForSitecore.componentsOptions = {"analyticsCustomMetadata" : {"sitename" : "TJC" , "siteName" : "TJC" , "pageFullPath" : "/sitecore/content/Enterprise/TJC/Home/standards/national-patient-safety-goals"},"analyticsEndpointUri" : "https://www.jointcommission.org/coveo/rest/v6/analytics" , "boostExpressions" : "" , "clientLanguageFieldName" : "@z95xlanguage" , "clientLanguageName" : "en" , "defaultSortType" : "" , "defaultSortField" : "" , "defaultSortCriteriaNoSpace" : "Relevancy" , "defaultSortCriteriaLowercase" : "relevancy" , "enableClientSideLogging" : false,"externalCollections" : [],"externalSources" : [],"filterResultsOnCurrentCulture" : true,"filterExpression" : "NOT @templateid==(\"adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97\",\"fe5dd826-48c6-436d-b87a-7c4210c7413b\")" , "id" : "_C0BEA35D-17D4-4148-9668-00A7A2B7595F" , "indexSourceName" : "Coveo_web_index - JC9-Prod" , "isEditingInPageEditor" : false,"isPreviewingInPageEditor" : false,"isPreviewingInPageEditorWithSimulatedDevice" : false,"latestVersionFieldName" : "@z95xlatestversion" , "pageFullPath" : "/sitecore/content/Enterprise/TJC/Home/standards/national-patient-safety-goals" , "pageName" : "national-patient-safety-goals" , "restEndpointUri" : "https://www.jointcommission.org/coveo/rest" , "searchboxPlaceholderText" : "Search this site." , "sendToSitecoreAnalytics" : false,"sitecoreItemId" : "a72ca496-d95c-4bac-9410-7121d6d4befd" , "sitecoreItemUri" : "sitecore://web/{A72CA496-D95C-4BAC-9410-7121D6D4BEFD}?lang=en\u0026ver=15" , "siteName" : "TJC" , "searchRedirectionItemName" : "search" , "searchRedirectionUrl" : "https://www.jointcommission.org/search/" , "keepOmniboxSuggestionsProvidersDefaultOrdering" : false};
+                    searchbox.coveoForSitecore('initSearchbox',
+                        CoveoForSitecore.componentsOptions);
+                }  else {
+                    Coveo.SearchEndpoint.endpoints["default"] = new Coveo.SearchEndpoint({"restUri" : "https://www.jointcommission.org/coveo/rest" , "queryStringArguments" : {"sitecoreItemUri" : "sitecore://web/{A72CA496-D95C-4BAC-9410-7121D6D4BEFD}?lang=en\u0026ver=15" , "siteName" : "TJC"}});
+                    searchbox.coveo('initSearchbox',
+                        'https://www.jointcommission.org/search/');
+                }
+                searchbox.find(".CoveoSearchbox input").attr("placeholder", 'Search this site.');
+            });
+        
+
+Search Toggle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+Close
+
+
+
+
+                                Through leading practices, unmatched knowledge and expertise, we help organizations across the continuum of care lead the way to zero harm.
+
+
+
+
+
+
+
+Who We Work With
+
+
+
+Our Partnerships
+
+
+Payor Relations
+
+
+State Recognition
+
+
+
+
+
+Why Work With Us
+
+
+Facts About The Joint Commission
+
+
+
+History of The Joint Commission
+
+
+Joint Commission FAQs
+
+
+Board of Commissioners
+
+
+Joint Commission Advisory Groups
+
+
+Quality Check and Quality Reports
+
+
+
+
+
+Federal Relations and Public Policy
+
+
+Policies and Financials
+
+
+
+Code of Conduct
+
+
+Conflict of Interest Policy
+
+
+Designated Copyright Agent Policy
+
+
+Financial Statements
+
+
+Firewall Policy Summary
+
+
+Linking to The Joint Commission Website
+
+
+Public Information Policy
+
+
+Reprint Permission Policy
+
+
+
+
+
+Joint Commission Officers
+
+
+
+Jonathan B. Perlin
+
+
+David Baker
+
+
+Brian Enochs
+
+
+Michael Kaba
+
+
+Kin Lee
+
+
+Ana Pujols McKee
+
+
+Paige Rodgers
+
+
+Deborah A. Ryan
+
+
+Margaret VanAmringe
+
+
+Lisa Vandecaveye
+
+
+
+
+
+Joint Commission Resources
+
+
+Joint Commission International
+
+
+
+
+ 
+
+
+
+Who We Work With
+Learn more about the communities and organizations we serve.
+
+
+
+
+ 
+
+
+
+Why Work With Us
+See how our expertise and rigorous standards can help organizations like yours.
+
+
+ 
+
+
+
+
+What We Offer
+
+
+
+Close
+
+
+
+
+                                In addition to accreditation, certification, and verification, we provide tools and resources for health care professionals that can help make a difference in the delivery of care.
+                            
+
+
+
+
+
+
+How We Can Help
+
+
+Accreditation
+
+
+
+Health Care Settings
+
+
+Become Accredited
+
+
+Accreditation Guide
+
+
+Accredited
+
+
+
+
+
+Certification
+
+
+
+What is Certification
+
+
+Certifications by Setting
+
+
+Explore Eligibility
+
+
+Learn the Process
+
+
+After your Review
+
+
+Certifications without Accreditation
+
+
+
+
+
+Verification
+
+
+
+Improve Maternal Outcomes at Your Health Care Facility
+
+
+Maternal Levels of Care Verification
+
+
+Publicity Kit
+
+
+
+
+
+Complimentary Resources
+
+
+
+Webinars
+
+
+Newsletters
+
+
+R3 Reports
+
+
+Sentinel Event Alerts
+
+
+Patient Safety Topics
+
+
+DASH
+
+
+
+
+
+
+
+ 
+
+
+
+How We Can Help
+Learn how working with the Joint Commission benefits your organization and community.
+
+
+
+
+ 
+
+
+
+Accreditation Guide
+Find the exact resources you need to succeed in your accreditation journey.
+
+
+ 
+
+
+
+
+Our Priorities
+
+
+
+Close
+
+
+
+
+                                Learn about the priorities that drive us and how we are helping propel health care forward.
+                            
+
+
+
+
+
+
+Health Care Equity
+
+
+
+Accreditation Standards & Resource Center
+
+
+
+
+
+Emergency Management
+
+
+Infection Prevention and Control
+
+
+Suicide Prevention
+
+
+Workplace Violence Prevention
+
+
+
+
+ 
+
+
+
+Health Care Equity
+Drive performance improvement using our new business intelligence tools.
+
+
+
+ 
+
+
+
+Infection Prevention & Control
+Find evidence-based sources on preventing infections in clinical settings.
+
+ 
+
+
+
+
+Standards
+
+
+
+Close
+
+
+
+
+                                Set expectations for your organization's performance that are reasonable, achievable and survey-able.
+                            
+
+
+
+
+
+
+About Our Standards
+
+
+Standards Field Reviews
+
+
+National Patient Safety Goals
+
+
+
+Ambulatory Health Care: 2023 National Patient Safety Goals
+
+
+Assisted Living Community: 2023 National Patient Safety Goals
+
+
+Behavioral Health Care and Human Services: 2023 National Patient Safety Goals
+
+
+Critical Access Hospital: 2023 National Patient Safety Goals
+
+
+Home Care: 2023 National Patient Safety Goals
+
+
+Hospital: 2023 National Patient Safety Goals
+
+
+Laboratory Services: 2023 National Patient Safety Goals
+
+
+Nursing Care Center: 2023 National Patient Safety Goals
+
+
+Office-Based Surgery: 2023 National Patient Safety Goals
+
+
+
+
+
+Prepublication Standards
+
+
+
+The Term Licensed Independent Practitioner Eliminated
+
+
+Updates to the Patient Blood Management Certification Program Requirements
+
+
+New Assisted Living Community Accreditation Memory Care Certification Option
+
+
+Revisions to PI.01.01.01, EP 4 
+
+
+Health Care Equity Standard Elevated to National Patient Safety Goal 
+
+
+New and Revised Emergency Management Standards 
+
+
+New Health Care Equity Certification Program  
+
+
+Updates to the Advanced Disease-Specific Care Certification for  Inpatient Diabetes Care 
+
+
+Updates to the Assisted Living Community Accreditation Requirements  
+
+
+Updates to the Comprehensive Cardiac Center Certification Program
+
+
+
+
+
+R3 Report
+
+
+Standards FAQs
+
+
+Universal Protocol
+
+
+Patient Safety Systems PS Chapter
+
+
+
+
+ 
+
+
+
+National Patient Safety Goals
+Find out about the current National Patient Safety Goals (NPSGs) for specific programs.
+
+
+
+ 
+
+
+
+FAQs about the Standards
+We help you measure, assess and improve your performance.
+
+ 
+
+
+
+
+Measurement
+
+
+
+Close
+
+
+
+
+                                Learn about the "gold standard" in quality. We develop and implement measures for accountability and quality improvement.
+                            
+
+
+
+
+
+
+Measures
+
+
+
+Assisted Living Community Measures
+
+
+Cardiac Care
+
+
+Emergency Department
+
+
+Health Care Staffing Services
+
+
+Hospital Outpatient Department
+
+
+Hospital-Based Inpatient Psychiatric
+
+
+Immunization
+
+
+Palliative Care
+
+
+Perinatal Care
+
+
+Spine Surgery
+
+
+Stroke
+
+
+Substance Use
+
+
+Tobacco Treatment
+
+
+Total Hip and Knee Replacement
+
+
+Venous Thromboembolism
+
+
+
+
+
+Specifications Manuals
+
+
+
+Electronic Clinical Quality Measures
+
+
+Chart Abstracted Measures
+
+
+
+
+
+Reporting
+
+
+
+Accreditation - Hospital
+
+
+Certification
+
+
+
+
+
+Pioneers in Quality
+
+
+
+Facts
+
+
+Proven Practices
+
+
+Expert to Expert Series
+
+
+Recognition
+
+
+
+
+
+Resources
+
+
+ORYX FAQs
+
+
+Quality Measurement Webinars & Videos
+
+
+
+Video Shorts
+
+
+
+
+
+Assisted Living Community (ALC)
+
+
+
+
+ 
+
+
+
+Measures
+Learn about the development and implementation of standardized performance measures. View them by specific areas by clicking here.
+
+
+
+ 
+
+
+
+Pioneers in Quality
+Gain an understanding of the development of electronic clinical quality measures to improve quality of care. 
+
+ 
+
+
+
+
+Resources
+
+
+
+Close
+
+
+
+
+                                Obtain useful information in regards to patient safety, suicide prevention, infection control and many more.
+                            
+
+
+
+
+
+
+Health Care Equity
+
+
+Publicity Kits
+
+
+Patient Safety Topics
+
+
+
+Zero Harm
+
+
+Emergency Management
+
+
+Health Care Workforce Safety and Well-Being
+
+
+Infection Prevention and Control
+
+
+Report a Patient Safety Concern or Complaint
+
+
+Suicide Prevention
+
+
+Workplace Violence Prevention
+
+
+
+
+
+News & Multimedia
+
+
+
+The Joint Commission Stands for Racial Justice and Equity
+
+
+Blogs
+
+
+Joint Commission Saves Lives
+
+
+Events
+
+
+Fact Sheets
+
+
+Newsletters
+
+
+News Releases
+
+
+Podcasts
+
+
+Speakers Bureau
+
+
+Video Resources
+
+
+Webinars
+
+
+The Joint Commission and Social Media
+
+
+
+
+
+Patient Safety
+
+
+
+2022 Patient Safety Awareness Week
+
+
+
+
+
+Sentinel Event
+
+
+The Physical Environment
+
+
+
+Utility Systems - EC.02.05.01
+
+
+Means of Egress - LS.02.01.20
+
+
+Built Environment - EC.02.06.01
+
+
+Fire Protection - EC.02.03.05
+
+
+General Requirements - LS.02.01.10
+
+
+Protection - LS.02.01.30
+
+
+Automated Suppression - LS.02.01.35
+
+
+Life Safety Code
+
+
+
+
+
+For Nurses
+
+
+For Physicians
+
+
+
+Physician Leader Monthly March 2023
+
+
+Physician Leader Monthly February 2023
+
+
+Physician Leader Monthly January 2023
+
+
+Physician Leader Monthly December 2022
+
+
+Physician Leader Monthly November 2022
+
+
+Physician Leader Monthly October 2022
+
+
+Physician Leader Monthly September 2022
+
+
+Physician Leader Monthly August 2022
+
+
+Physician Leader Monthly July 2022
+
+
+Physician Leader Monthly June 2022
+
+
+Physician Leader Monthly May 2022
+
+
+Physician Leader Monthly April 2022
+
+
+
+
+
+For Consumers
+
+
+
+Speak Up Campaigns
+
+
+COVID-19 Vaccines
+
+
+TakeCHARGE
+
+
+The Joint Commission Journal on Quality and Patient Safety
+
+
+The Smart Parents Guide
+
+
+You The Smart Patient
+
+
+
+
+
+Research
+
+
+
+Operations Support Research 
+
+
+Evaluation Research
+
+
+Health Services Research
+
+
+DataMart
+
+
+
+
+
+Awards
+
+
+
+Ernest Amory Codman Award
+
+
+John M. Eisenberg Patient Safety and Quality Award
+
+
+Bernard J. Tyson National Award for Excellence in Pursuit of Healthcare Equity
+
+
+
+
+
+Continuing Education Credit Information
+
+
+
+Continuing Education Credit Information FAQs
+
+
+
+
+
+
+
+ 
+
+
+
+News & Multimedia
+Stay up to date with all the latest Joint Commission news, blog posts, webinars, and communications.
+
+
+
+ 
+
+
+
+Patient Safety Topics
+We can make a difference on your journey to provide consistently excellent care for each and every patient.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home  >
+
+
+Standards >
+
+
+National Patient Safety Goals >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background Image: Image: Beautiful black physiotherapist and patient at the parallel bars looking at camera smiling.
+
+
+
+
+Background Image: Image: Beautiful black physiotherapist and patient at the parallel bars looking at camera smiling.
+
+
+
+Background Image: 
+
+
+
+
+Background Image: 
+
+
+National Patient Safety GoalsEach year we gather information about emerging patient safety issues from widely recognized experts and stakeholders. This information is the basis for our National Patient Safety Goals®, which we tailor for each specific program. It also informs our sentinel event alerts, standards and survey processes, performance measures, and educational materials. 
+
+
+
+
+
+
+
+
+
+
+
+2023 National Patient Safety Goals  Find out about the 2023 National Patient Safety Goals (NPSGs) for specific programs. Use these links to download an entire chapter or an easy-to-read version.
+
+Ambulatory Health Care Chapter
+Assisted Living Community Chapter
+Behavioral Health Care and Human Services Chapter
+Critical Access Hospital Chapter
+Home Care Chapter
+Hospital Chapter
+Laboratory Chapter
+Nursing Care Center Chapter
+Office-Based Surgery Chapter
+Get answers to frequently asked questions in our Standards Interpretation section. 
+
+
+
+
+
+
+
+
+
+Related Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2023 National Patient Safety Goals Presentation
+
+
+
+
+
+
+
+                                The Joint Commission's National Patient Safety Goals presentation for 2023.
+                                
+
+
+2023 National Patient Safety Goals Presentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NPSG 15.01.01 Suicide Prevention Resources
+
+
+
+
+
+
+
+                                A new compendium of Suicide Prevention Resources to support implementation of NPSG 15.01.01, revised November 2018.
+                                
+
+
+NPSG 15.01.01 Suicide Prevention Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Look-alike/sound-alike drug list
+
+
+
+
+
+
+
+                                Patient Safety - Look-alike/sound-alike drug list
+                                
+
+
+Look-alike/sound-alike drug list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Official “Do Not Use” List of Abbreviations
+
+
+
+
+
+
+
+                                The Joint Commission’s “Do Not Use” List is part of the Information Management standards. This requirement does not apply to preprogrammed health information technology systems (for example, electronic medical records or CPOE systems), but this application remains under consideration for the future. Organizations contemplating introduction or upgrade of such systems should strive to eliminate the use of dangerous abbreviations, acronyms, symbols and dose designations from the software.
+                                
+
+
+Official “Do Not Use” List of Abbreviations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reduce the likelihood of patient harm associated with the use of anticoagulant therapy.
+
+
+
+
+
+
+
+                                Resources to support Joint Commission Accredited organizations implementation of NPSG.03.05.01, effective July 2019.
+                                
+
+
+Reduce the likelihood of patient harm associated with the use of anticoagulant therapy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Standards
+
+
+About Our Standards
+
+
+Standards Field Reviews
+
+
+National Patient Safety Goals
+
+
+National Patient Safety Goals 
+
+Ambulatory Health Care: 2023 National Patient Safety Goals
+
+
+Assisted Living Community: 2023 National Patient Safety Goals
+
+
+Behavioral Health Care and Human Services: 2023 National Patient Safety Goals
+
+
+Critical Access Hospital: 2023 National Patient Safety Goals
+
+
+Home Care: 2023 National Patient Safety Goals
+
+
+Hospital: 2023 National Patient Safety Goals
+
+
+Laboratory Services: 2023 National Patient Safety Goals
+
+
+Nursing Care Center: 2023 National Patient Safety Goals
+
+
+Office-Based Surgery: 2023 National Patient Safety Goals
+
+
+
+
+Prepublication Standards
+
+
+Prepublication Standards 
+
+The Term Licensed Independent Practitioner Eliminated
+
+
+Updates to the Patient Blood Management Certification Program Requirements
+
+
+New Assisted Living Community Accreditation Memory Care Certification Option
+
+
+Revisions to PI.01.01.01, EP 4 
+
+
+Health Care Equity Standard Elevated to National Patient Safety Goal 
+
+
+New and Revised Emergency Management Standards 
+
+
+New Health Care Equity Certification Program  
+
+
+Updates to the Advanced Disease-Specific Care Certification for  Inpatient Diabetes Care 
+
+
+Updates to the Assisted Living Community Accreditation Requirements  
+
+
+Updates to the Comprehensive Cardiac Center Certification Program
+
+
+
+
+R3 Report
+
+
+Standards FAQs
+
+
+Universal Protocol
+
+
+Patient Safety Systems PS Chapter
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+                This site uses cookies and other tracking technologies to assist with navigation, providing feedback, analyzing your use of our products and services, assisting with our promotional and marketing efforts, and provide content from third parties. Get more information about cookies and how you can refuse them by clicking on the learn more button below. By not making a selection you will be agreeing to the use of our cookies.
+            
+
+
+I Agree
+
+
+
+                            Learn More
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+Visit us on Facebook
+
+facebook
+
+
+
+
+
+
+Visit us on Twitter
+
+twitter
+
+
+
+
+
+
+Visit us on LinkedIn
+
+linkedin
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+News Room 
+
+Careers 
+
+E-Alerts 
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+
+Accessibility 
+
+Terms of Use 
+
+Privacy & Cookies Statement 
+
+
+
+
+
+
+
+©2023 The Joint Commission, All Rights Reserved        
+
+
+
+The Joint Commission is a registered trademark of the Joint Commission enterprise. 
+
+
+ 
+
+
+
+(function(d){var s = d.createElement("script");s.setAttribute("data-account", "TC1vBClDau");s.setAttribute("src", "https://cdn.userway.org/widget.js");(d.body || d.head).appendChild(s);})(document)Please ensure Javascript is enabled for purposes of website accessibility 
+
+
+
+
+
+
+
+
+
+
+
